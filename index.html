@@ -9,7 +9,7 @@
         .subtitle { text-align: center; color: #7f8c8d; font-size: 14px; margin-bottom: 20px; line-height: 1.5; }
         .stock-table { width: 100%; border-collapse: collapse; margin-top: 20px; }
         .stock-table th, .stock-table td { border: 1px solid #ddd; padding: 12px; text-align: left; }
-        .stock-table th { background-color: #2c3e50; color: white; }
+        .stock-table th { background-color: #2c3e50; color: white; position: sticky; top: 0; }
         .stock-table tr:nth-child(even) { background-color: #f9f9f9; }
         .stock-table tr:hover { background-color: #f1f1f1; }
         #last-updated { font-weight: bold; }
@@ -17,9 +17,9 @@
 </head>
 <body>
     <div class="container">
-        <h2>🎯 Ultimate Breakout Screener</h2>
+        <h2>🎯 Top 250 Volume Screener</h2>
         <div class="subtitle">
-            <strong>Filters Applied:</strong> Top 250 Volume | Price > 50, 100, 200 DMA | Within 10% of 200 DMA | Positive CAR Reversal<br>
+            <strong>Data Showing:</strong> Top 250 Highest Volume Stocks & CAR Momentum Status<br>
             Last updated: <span id="last-updated">Loading...</span>
         </div>
         <table class="stock-table" id="data-table">
@@ -41,20 +41,27 @@
     </div>
 
     <script>
-        // Fetch the JSON file and build the table dynamically
         fetch('data.json')
             .then(response => response.json())
             .then(data => {
                 document.getElementById('last-updated').textContent = data.last_updated;
                 const tbody = document.querySelector('#data-table tbody');
-                tbody.innerHTML = ''; // Clear loading message
+                tbody.innerHTML = ''; 
 
                 if (data.stocks.length === 0) {
-                    tbody.innerHTML = '<tr><td colspan="7" style="text-align:center; color:#666;">No stocks passed the Volume, DMA, and CAR filters today.</td></tr>';
+                    tbody.innerHTML = '<tr><td colspan="7" style="text-align:center; color:#666;">No data available.</td></tr>';
                     return;
                 }
 
                 data.stocks.forEach(stock => {
+                    // Determine color based on the text
+                    let carColor = "#f39c12"; // Orange for short history
+                    if (stock['CAR Signal'].includes("BUY")) {
+                        carColor = "#27ae60"; // Green
+                    } else if (stock['CAR Signal'].includes("AVOID")) {
+                        carColor = "#e74c3c"; // Red
+                    }
+
                     const row = `<tr>
                         <td><strong>${stock.Symbol}</strong></td>
                         <td>${stock['Price (₹)']}</td>
@@ -62,7 +69,7 @@
                         <td>${stock['100 DMA']}</td>
                         <td>${stock['200 DMA']}</td>
                         <td>${stock['Dist from 200 DMA']}</td>
-                        <td style="color: #27ae60; font-weight: bold;">${stock['CAR Signal']}</td>
+                        <td style="color: ${carColor}; font-weight: bold;">${stock['CAR Signal']}</td>
                     </tr>`;
                     tbody.innerHTML += row;
                 });
