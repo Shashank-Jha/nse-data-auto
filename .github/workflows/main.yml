@@ -32,8 +32,19 @@ jobs:
 
       - name: Force Commit and Push JSON
         run: |
+          # 1. Setup Bot Identity
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # 2. Check if the file was actually created by Python
+          ls -la
+          
+          # 3. Add and check status
           git add data.json
-          git commit -m "Automated update of data.json" || true
-          git push
+          git status
+          
+          # 4. Commit (echoing if it skips)
+          git commit -m "Automated update of data.json" || echo "No changes detected by git"
+          
+          # 5. Explicitly push to the main branch
+          git push origin HEAD:main
