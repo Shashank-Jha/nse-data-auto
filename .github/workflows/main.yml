@@ -30,11 +30,10 @@ jobs:
       - name: Run Data Script
         run: python update_website.py
 
-      - name: Force Commit and Push
+      - name: Force Commit and Push JSON
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add index.html
-          # We use || true so the workflow doesn't crash if there are no changes to commit
-          git commit -m "Automated update of stock data including CAR signal" || true
+          git add data.json
+          git commit -m "Automated update of data.json" || true
           git push

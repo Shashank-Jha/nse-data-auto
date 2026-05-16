@@ -1,3 +1,4 @@
+import json
 import pandas as pd
 import requests
 import yfinance as yf
@@ -98,50 +99,23 @@ def scan_breakout_stocks(symbols):
             
     return pd.DataFrame(breakout_list)
 
-def create_html(df):
-    if df.empty:
-        html_table = "<p style='text-align:center; color:#666;'>No stocks passed the Volume, DMA, and CAR filters today.</p>"
-    else:
-        html_table = df.to_html(index=False, classes='stock-table')
-        
+def save_to_json(df):
     last_update = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    stocks_list = df.to_dict(orient='records')
     
-    html_template = f"""
-    <!DOCTYPE html>
-    <html>
-    <head>
-        <title>Curated Breakout Stocks</title>
-        <style>
-            body {{ font-family: Arial, sans-serif; padding: 20px; background-color: #f4f4f9; }}
-            .container {{ max-width: 950px; margin: auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }}
-            h2 {{ text-align: center; color: #2c3e50; margin-bottom: 5px; }}
-            .subtitle {{ text-align: center; color: #7f8c8d; font-size: 14px; margin-bottom: 20px; line-height: 1.5; }}
-            .stock-table {{ width: 100%; border-collapse: collapse; margin-top: 20px; }}
-            .stock-table th, .stock-table td {{ border: 1px solid #ddd; padding: 12px; text-align: left; }}
-            .stock-table th {{ background-color: #2c3e50; color: white; }}
-            .stock-table tr:nth-child(even) {{ background-color: #f9f9f9; }}
-            .stock-table tr:hover {{ background-color: #f1f1f1; }}
-        </style>
-    </head>
-    <body>
-        <div class="container">
-            <h2>🎯 Ultimate Breakout Screener</h2>
-            <div class="subtitle">
-                <strong>Filters Applied:</strong> Top 250 Volume | Price > 50, 100, 200 DMA | Within 10% of 200 DMA | Positive CAR Reversal<br>
-                Last updated: {last_update}
-            </div>
-            {html_table}
-        </div>
-    </body>
-    </html>
-    """
+    # Package data into a clean dictionary
+    output_data = {
+        "last_updated": last_update,
+        "stocks": stocks_list
+    }
     
-    with open("index.html", "w") as f:
-        f.write(html_template)
+    # Save as data.json
+    with open("data.json", "w") as f:
+        json.dump(output_data, f, indent=4)
 
 if __name__ == "__main__":
     raw_df = fetch_nse_data()
     top_symbols = get_top_volume_symbols(raw_df)
     final_df = scan_breakout_stocks(top_symbols)
-    create_html(final_df)
-    print("Website updated successfully with CAR filtering applied.")
+    save_to_json(final_df)
+    print("Market data successfully saved to data.json")
