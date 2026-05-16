@@ -3,10 +3,10 @@ name: Update Stock Website
 on:
   schedule:
     - cron: '45 15 * * 1-5'
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual trigger
 
 permissions:
-  contents: write # Required to allow the bot to commit files
+  contents: write
 
 jobs:
   build-and-deploy:
@@ -14,6 +14,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          # Required to allow the bot to push back to the repo
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -27,7 +30,11 @@ jobs:
       - name: Run Data Script
         run: python update_website.py
 
-      - name: Commit and Push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Automated stock data update"
+      - name: Force Commit and Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add index.html
+          # We use || true so the workflow doesn't crash if there are no changes to commit
+          git commit -m "Automated update of stock data including CAR signal" || true
+          git push
