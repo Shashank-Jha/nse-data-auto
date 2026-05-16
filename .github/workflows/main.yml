@@ -1,0 +1,33 @@
+name: Update Stock Website
+
+on:
+  schedule:
+    - cron: '45 15 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write # Required to allow the bot to commit files
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Data Script
+        run: python update_website.py
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Automated stock data update"
