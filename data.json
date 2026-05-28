@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-27 18:13:56",
+    "last_updated": "2026-05-28 18:26:14",
     "stocks": [
         {
             "Symbol": "JPPOWER",
@@ -468,6 +468,15 @@
             "200 DMA": 9.14,
             "Dist from 200 DMA": "30.84%",
             "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "TMPV",
+            "Price (\u20b9)": 400.95,
+            "50 DMA": 340.61,
+            "100 DMA": 351.38,
+            "200 DMA": 436.62,
+            "Dist from 200 DMA": "-8.17%",
+            "CAR Signal": "AVOID (CAR Falling)"
         },
         {
             "Symbol": "PAISALO",
@@ -965,6 +974,15 @@
             "CAR Signal": "Short History"
         },
         {
+            "Symbol": "VIYASH",
+            "Price (\u20b9)": 250.26,
+            "50 DMA": 211.01,
+            "100 DMA": 208.64,
+            "200 DMA": 205.28,
+            "Dist from 200 DMA": "21.91%",
+            "CAR Signal": "Short History"
+        },
+        {
             "Symbol": "IRFC",
             "Price (\u20b9)": 99.19,
             "50 DMA": 99.54,
@@ -1101,10 +1119,10 @@
         },
         {
             "Symbol": "LICI",
-            "Price (\u20b9)": 830.0,
-            "50 DMA": 795.51,
-            "100 DMA": 819.16,
-            "200 DMA": 853.0,
+            "Price (\u20b9)": 415.0,
+            "50 DMA": 397.75,
+            "100 DMA": 409.58,
+            "200 DMA": 426.5,
             "Dist from 200 DMA": "-2.7%",
             "CAR Signal": "AVOID (CAR Falling)"
         },
@@ -1291,10 +1309,10 @@
         {
             "Symbol": "METAL",
             "Price (\u20b9)": 13.83,
-            "50 DMA": 12.57,
-            "100 DMA": 12.21,
-            "200 DMA": 11.17,
-            "Dist from 200 DMA": "23.82%",
+            "50 DMA": 12.62,
+            "100 DMA": 12.24,
+            "200 DMA": 11.19,
+            "Dist from 200 DMA": "23.57%",
             "CAR Signal": "Short History"
         },
         {
@@ -1741,10 +1759,10 @@
         {
             "Symbol": "GROWWSLVR",
             "Price (\u20b9)": 25.58,
-            "50 DMA": 24.03,
-            "100 DMA": 78.8,
-            "200 DMA": 112.89,
-            "Dist from 200 DMA": "-77.34%",
+            "50 DMA": 24.04,
+            "100 DMA": 76.8,
+            "200 DMA": 112.47,
+            "Dist from 200 DMA": "-77.26%",
             "CAR Signal": "AVOID (CAR Falling)"
         },
         {
