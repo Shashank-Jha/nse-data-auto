@@ -1,193 +1,85 @@
 {
-    "last_updated": "2026-07-07 17:36:20",
+    "last_updated": "2026-07-08 17:07:04",
     "stocks": [
         {
-            "Symbol": "IDEA",
-            "Price (\u20b9)": 13.85,
-            "50 DMA": 13.54,
-            "100 DMA": 11.69,
-            "200 DMA": 10.93,
-            "Dist from 200 DMA": "26.72%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
             "Symbol": "PCJEWELLER",
-            "Price (\u20b9)": 9.41,
+            "Price (\u20b9)": 9.62,
             "50 DMA": 8.99,
-            "100 DMA": 9.08,
-            "200 DMA": 10.13,
-            "Dist from 200 DMA": "-7.13%",
+            "100 DMA": 9.07,
+            "200 DMA": 10.11,
+            "Dist from 200 DMA": "-4.82%",
             "CAR Signal": "AVOID (CAR Falling)"
         },
         {
-            "Symbol": "RITES",
-            "Price (\u20b9)": 235.43,
-            "50 DMA": 211.7,
-            "100 DMA": 209.1,
-            "200 DMA": 223.27,
-            "Dist from 200 DMA": "5.45%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "CUPID",
-            "Price (\u20b9)": 221.11,
-            "50 DMA": 148.18,
-            "100 DMA": 118.38,
-            "200 DMA": 93.13,
-            "Dist from 200 DMA": "137.43%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "OLAELEC",
-            "Price (\u20b9)": 42.4,
-            "50 DMA": 40.29,
-            "100 DMA": 34.64,
-            "200 DMA": 38.72,
-            "Dist from 200 DMA": "9.51%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "MOTISONS",
-            "Price (\u20b9)": 14.91,
-            "50 DMA": 13.03,
-            "100 DMA": 13.51,
-            "200 DMA": 14.65,
-            "Dist from 200 DMA": "1.8%",
+            "Symbol": "IDEA",
+            "Price (\u20b9)": 13.93,
+            "50 DMA": 13.62,
+            "100 DMA": 11.71,
+            "200 DMA": 10.96,
+            "Dist from 200 DMA": "27.09%",
             "CAR Signal": "AVOID (CAR Falling)"
         },
         {
             "Symbol": "YESBANK",
-            "Price (\u20b9)": 24.01,
-            "50 DMA": 23.0,
-            "100 DMA": 21.3,
-            "200 DMA": 21.74,
-            "Dist from 200 DMA": "10.42%",
+            "Price (\u20b9)": 23.42,
+            "50 DMA": 23.06,
+            "100 DMA": 21.32,
+            "200 DMA": 21.76,
+            "Dist from 200 DMA": "7.65%",
             "CAR Signal": "AVOID (CAR Falling)"
         },
         {
-            "Symbol": "HDFCBANK",
-            "Price (\u20b9)": 829.3,
-            "50 DMA": 764.85,
-            "100 DMA": 792.01,
-            "200 DMA": 875.36,
-            "Dist from 200 DMA": "-5.26%",
-            "CAR Signal": "AVOID (CAR Falling)"
+            "Symbol": "CUPID",
+            "Price (\u20b9)": 196.98,
+            "50 DMA": 149.8,
+            "100 DMA": 119.48,
+            "200 DMA": 93.9,
+            "Dist from 200 DMA": "109.77%",
+            "CAR Signal": "Short History"
         },
         {
-            "Symbol": "SUZLON",
-            "Price (\u20b9)": 54.38,
-            "50 DMA": 55.58,
-            "100 DMA": 50.22,
-            "200 DMA": 51.78,
-            "Dist from 200 DMA": "5.03%",
+            "Symbol": "OLAELEC",
+            "Price (\u20b9)": 40.99,
+            "50 DMA": 40.38,
+            "100 DMA": 34.74,
+            "200 DMA": 38.63,
+            "Dist from 200 DMA": "6.11%",
             "CAR Signal": "BUY (CAR Rising)"
         },
         {
-            "Symbol": "TARC",
-            "Price (\u20b9)": 127.51,
-            "50 DMA": 129.52,
-            "100 DMA": 132.81,
-            "200 DMA": 143.71,
-            "Dist from 200 DMA": "-11.27%",
+            "Symbol": "SOUTHBANK",
+            "Price (\u20b9)": 43.7,
+            "50 DMA": 43.26,
+            "100 DMA": 40.99,
+            "200 DMA": 39.48,
+            "Dist from 200 DMA": "10.68%",
             "CAR Signal": "AVOID (CAR Falling)"
         },
         {
             "Symbol": "SHAREINDIA",
-            "Price (\u20b9)": 164.91,
-            "50 DMA": 139.25,
-            "100 DMA": 137.48,
-            "200 DMA": 149.04,
-            "Dist from 200 DMA": "10.65%",
+            "Price (\u20b9)": 177.72,
+            "50 DMA": 140.0,
+            "100 DMA": 137.72,
+            "200 DMA": 149.21,
+            "Dist from 200 DMA": "19.11%",
             "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "TATSILV",
-            "Price (\u20b9)": 21.95,
-            "50 DMA": 23.87,
-            "100 DMA": 23.87,
-            "200 DMA": 21.21,
-            "Dist from 200 DMA": "3.47%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "ETERNAL",
-            "Price (\u20b9)": 289.4,
-            "50 DMA": 253.8,
-            "100 DMA": 250.73,
-            "200 DMA": 277.65,
-            "Dist from 200 DMA": "4.23%",
-            "CAR Signal": "BUY (CAR Rising)"
         },
         {
             "Symbol": "JPPOWER",
-            "Price (\u20b9)": 17.56,
-            "50 DMA": 18.75,
-            "100 DMA": 17.27,
-            "200 DMA": 17.44,
-            "Dist from 200 DMA": "0.68%",
+            "Price (\u20b9)": 16.9,
+            "50 DMA": 18.68,
+            "100 DMA": 17.29,
+            "200 DMA": 17.43,
+            "Dist from 200 DMA": "-3.04%",
             "CAR Signal": "AVOID (CAR Falling)"
         },
         {
-            "Symbol": "SOUTHBANK",
-            "Price (\u20b9)": 47.67,
-            "50 DMA": 43.19,
-            "100 DMA": 40.96,
-            "200 DMA": 39.41,
-            "Dist from 200 DMA": "20.95%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "MOTHERSON",
-            "Price (\u20b9)": 143.37,
-            "50 DMA": 138.55,
-            "100 DMA": 130.1,
-            "200 DMA": 121.07,
-            "Dist from 200 DMA": "18.42%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "IOLCP",
-            "Price (\u20b9)": 165.04,
-            "50 DMA": 123.62,
-            "100 DMA": 100.55,
-            "200 DMA": 94.17,
-            "Dist from 200 DMA": "75.26%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "SAGILITY",
-            "Price (\u20b9)": 41.44,
-            "50 DMA": 41.04,
-            "100 DMA": 41.34,
-            "200 DMA": 45.3,
-            "Dist from 200 DMA": "-8.52%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "SWIGGY",
-            "Price (\u20b9)": 266.27,
-            "50 DMA": 256.09,
-            "100 DMA": 274.63,
-            "200 DMA": 332.9,
-            "Dist from 200 DMA": "-20.01%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "HFCL",
-            "Price (\u20b9)": 226.04,
-            "50 DMA": 173.39,
-            "100 DMA": 125.14,
-            "200 DMA": 97.93,
-            "Dist from 200 DMA": "130.82%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "SEPC",
-            "Price (\u20b9)": 6.68,
-            "50 DMA": 7.28,
-            "100 DMA": 7.13,
-            "200 DMA": 8.71,
-            "Dist from 200 DMA": "-23.33%",
+            "Symbol": "SUZLON",
+            "Price (\u20b9)": 53.13,
+            "50 DMA": 55.5,
+            "100 DMA": 50.28,
+            "200 DMA": 51.75,
+            "Dist from 200 DMA": "2.68%",
             "CAR Signal": "AVOID (CAR Falling)"
         },
         {
@@ -196,1907 +88,1997 @@
             "50 DMA": 1.39,
             "100 DMA": 1.26,
             "200 DMA": 1.29,
-            "Dist from 200 DMA": "1.84%",
+            "Dist from 200 DMA": "1.93%",
             "CAR Signal": "AVOID (CAR Falling)"
         },
         {
-            "Symbol": "ADANIPOWER",
-            "Price (\u20b9)": 218.07,
-            "50 DMA": 226.57,
-            "100 DMA": 193.89,
-            "200 DMA": 170.97,
-            "Dist from 200 DMA": "27.55%",
+            "Symbol": "TATSILV",
+            "Price (\u20b9)": 21.35,
+            "50 DMA": 23.83,
+            "100 DMA": 23.85,
+            "200 DMA": 21.26,
+            "Dist from 200 DMA": "0.42%",
             "CAR Signal": "AVOID (CAR Falling)"
         },
         {
-            "Symbol": "ZEEL",
-            "Price (\u20b9)": 102.37,
-            "50 DMA": 98.96,
-            "100 DMA": 90.95,
-            "200 DMA": 94.52,
-            "Dist from 200 DMA": "8.31%",
+            "Symbol": "ETERNAL",
+            "Price (\u20b9)": 286.7,
+            "50 DMA": 254.45,
+            "100 DMA": 250.59,
+            "200 DMA": 277.45,
+            "Dist from 200 DMA": "3.34%",
             "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "HCC",
-            "Price (\u20b9)": 23.83,
-            "50 DMA": 23.69,
-            "100 DMA": 20.51,
-            "200 DMA": 21.8,
-            "Dist from 200 DMA": "9.31%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "APOLLO",
-            "Price (\u20b9)": 401.35,
-            "50 DMA": 379.31,
-            "100 DMA": 304.12,
-            "200 DMA": 289.09,
-            "Dist from 200 DMA": "38.83%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "RPOWER",
-            "Price (\u20b9)": 24.96,
-            "50 DMA": 26.99,
-            "100 DMA": 25.98,
-            "200 DMA": 32.24,
-            "Dist from 200 DMA": "-22.57%",
-            "CAR Signal": "AVOID (CAR Falling)"
         },
         {
             "Symbol": "KALYANKJIL",
-            "Price (\u20b9)": 354.75,
-            "50 DMA": 371.98,
-            "100 DMA": 389.14,
-            "200 DMA": 432.32,
-            "Dist from 200 DMA": "-17.94%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "GMRAIRPORT",
-            "Price (\u20b9)": 114.98,
-            "50 DMA": 102.24,
-            "100 DMA": 98.55,
-            "200 DMA": 97.88,
-            "Dist from 200 DMA": "17.47%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "LLOYDSENGG",
-            "Price (\u20b9)": 85.59,
-            "50 DMA": 73.93,
-            "100 DMA": 60.96,
-            "200 DMA": 58.14,
-            "Dist from 200 DMA": "47.22%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "HSCL",
-            "Price (\u20b9)": 643.55,
-            "50 DMA": 636.22,
-            "100 DMA": 553.66,
-            "200 DMA": 507.92,
-            "Dist from 200 DMA": "26.7%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "KOTAKBANK",
-            "Price (\u20b9)": 381.7,
-            "50 DMA": 388.67,
-            "100 DMA": 388.58,
-            "200 DMA": 406.19,
-            "Dist from 200 DMA": "-6.03%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "JIOFIN",
-            "Price (\u20b9)": 243.07,
-            "50 DMA": 239.46,
-            "100 DMA": 242.07,
-            "200 DMA": 268.96,
-            "Dist from 200 DMA": "-9.63%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "TATASTEEL",
-            "Price (\u20b9)": 189.79,
-            "50 DMA": 201.61,
-            "100 DMA": 199.99,
-            "200 DMA": 186.79,
-            "Dist from 200 DMA": "1.61%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "MAHABANK",
-            "Price (\u20b9)": 83.19,
-            "50 DMA": 82.78,
-            "100 DMA": 75.45,
-            "200 DMA": 66.8,
-            "Dist from 200 DMA": "24.54%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "EASEMYTRIP",
-            "Price (\u20b9)": 7.1,
-            "50 DMA": 7.66,
-            "100 DMA": 7.62,
-            "200 DMA": 7.6,
-            "Dist from 200 DMA": "-6.55%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "UJJIVANSFB",
-            "Price (\u20b9)": 61.62,
-            "50 DMA": 56.63,
-            "100 DMA": 56.87,
-            "200 DMA": 55.35,
-            "Dist from 200 DMA": "11.33%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "SHAH",
-            "Price (\u20b9)": 4.8,
-            "50 DMA": 4.99,
-            "100 DMA": 4.93,
-            "200 DMA": 4.67,
-            "Dist from 200 DMA": "2.73%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "DIACABS",
-            "Price (\u20b9)": 224.95,
-            "50 DMA": 193.93,
-            "100 DMA": 165.48,
-            "200 DMA": 153.81,
-            "Dist from 200 DMA": "46.25%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "AURIGROW",
-            "Price (\u20b9)": 0.28,
-            "50 DMA": 0.32,
-            "100 DMA": 0.31,
-            "200 DMA": 0.45,
-            "Dist from 200 DMA": "-38.4%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "INDUSTOWER",
-            "Price (\u20b9)": 382.8,
-            "50 DMA": 413.74,
-            "100 DMA": 426.0,
-            "200 DMA": 412.25,
-            "Dist from 200 DMA": "-7.14%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "INFY",
-            "Price (\u20b9)": 1071.8,
-            "50 DMA": 1118.26,
-            "100 DMA": 1193.02,
-            "200 DMA": 1356.26,
-            "Dist from 200 DMA": "-20.97%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "WIPRO",
-            "Price (\u20b9)": 173.0,
-            "50 DMA": 189.64,
-            "100 DMA": 195.56,
-            "200 DMA": 219.72,
-            "Dist from 200 DMA": "-21.26%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "BHEL",
-            "Price (\u20b9)": 376.45,
-            "50 DMA": 396.5,
-            "100 DMA": 334.95,
-            "200 DMA": 299.64,
-            "Dist from 200 DMA": "25.64%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "ITC",
-            "Price (\u20b9)": 288.75,
-            "50 DMA": 292.29,
-            "100 DMA": 295.72,
-            "200 DMA": 331.3,
-            "Dist from 200 DMA": "-12.84%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "PAISALO",
-            "Price (\u20b9)": 69.54,
-            "50 DMA": 55.05,
-            "100 DMA": 45.96,
-            "200 DMA": 41.2,
-            "Dist from 200 DMA": "68.8%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "PNB",
-            "Price (\u20b9)": 103.79,
-            "50 DMA": 104.41,
-            "100 DMA": 108.49,
-            "200 DMA": 112.75,
-            "Dist from 200 DMA": "-7.95%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "IOC",
-            "Price (\u20b9)": 142.18,
-            "50 DMA": 141.13,
-            "100 DMA": 148.15,
-            "200 DMA": 152.15,
-            "Dist from 200 DMA": "-6.56%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "NAUKRI",
-            "Price (\u20b9)": 1159.45,
-            "50 DMA": 983.75,
-            "100 DMA": 1003.13,
-            "200 DMA": 1167.14,
-            "Dist from 200 DMA": "-0.66%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "IDFCFIRSTB",
-            "Price (\u20b9)": 80.43,
-            "50 DMA": 73.34,
-            "100 DMA": 71.08,
-            "200 DMA": 75.42,
-            "Dist from 200 DMA": "6.64%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "NMDC",
-            "Price (\u20b9)": 84.35,
-            "50 DMA": 88.99,
-            "100 DMA": 85.36,
-            "200 DMA": 80.53,
-            "Dist from 200 DMA": "4.74%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "ICICIBANK",
-            "Price (\u20b9)": 1414.7,
-            "50 DMA": 1300.32,
-            "100 DMA": 1311.84,
-            "200 DMA": 1344.21,
-            "Dist from 200 DMA": "5.24%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "CANBK",
-            "Price (\u20b9)": 125.03,
-            "50 DMA": 128.53,
-            "100 DMA": 132.81,
-            "200 DMA": 134.98,
-            "Dist from 200 DMA": "-7.37%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "ONGC",
-            "Price (\u20b9)": 244.18,
-            "50 DMA": 267.16,
-            "100 DMA": 272.05,
-            "200 DMA": 254.9,
-            "Dist from 200 DMA": "-4.2%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "RELIANCE",
-            "Price (\u20b9)": 1308.4,
-            "50 DMA": 1337.03,
-            "100 DMA": 1357.03,
-            "200 DMA": 1412.13,
-            "Dist from 200 DMA": "-7.35%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "BELRISE",
-            "Price (\u20b9)": 229.97,
-            "50 DMA": 223.95,
-            "100 DMA": 208.9,
-            "200 DMA": 186.07,
-            "Dist from 200 DMA": "23.6%",
+            "Price (\u20b9)": 374.15,
+            "50 DMA": 371.21,
+            "100 DMA": 388.61,
+            "200 DMA": 431.58,
+            "Dist from 200 DMA": "-13.31%",
             "CAR Signal": "AVOID (CAR Falling)"
         },
         {
             "Symbol": "IFCI",
-            "Price (\u20b9)": 74.46,
-            "50 DMA": 71.26,
-            "100 DMA": 64.16,
-            "200 DMA": 59.36,
-            "Dist from 200 DMA": "25.43%",
+            "Price (\u20b9)": 73.9,
+            "50 DMA": 71.57,
+            "100 DMA": 64.28,
+            "200 DMA": 59.44,
+            "Dist from 200 DMA": "24.33%",
             "CAR Signal": "AVOID (CAR Falling)"
         },
         {
-            "Symbol": "ITDC",
-            "Price (\u20b9)": 702.8,
-            "50 DMA": 583.47,
-            "100 DMA": 544.23,
-            "200 DMA": 563.08,
-            "Dist from 200 DMA": "24.81%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "UNIONBANK",
-            "Price (\u20b9)": 161.08,
-            "50 DMA": 162.89,
-            "100 DMA": 170.63,
-            "200 DMA": 160.13,
-            "Dist from 200 DMA": "0.59%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "CCAVENUE",
-            "Price (\u20b9)": 16.84,
-            "50 DMA": 14.53,
-            "100 DMA": 15.04,
-            "200 DMA": 16.26,
-            "Dist from 200 DMA": "3.55%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "DHANBANK",
-            "Price (\u20b9)": 36.22,
-            "50 DMA": 32.77,
-            "100 DMA": 28.5,
-            "200 DMA": 27.06,
-            "Dist from 200 DMA": "33.86%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "VEDL",
-            "Price (\u20b9)": 275.05,
-            "50 DMA": 317.62,
-            "100 DMA": 509.47,
-            "200 DMA": 527.14,
-            "Dist from 200 DMA": "-47.82%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "BANKBARODA",
-            "Price (\u20b9)": 247.85,
-            "50 DMA": 263.82,
-            "100 DMA": 269.87,
-            "200 DMA": 272.31,
-            "Dist from 200 DMA": "-8.98%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "MSUMI",
-            "Price (\u20b9)": 41.31,
-            "50 DMA": 39.51,
-            "100 DMA": 39.84,
-            "200 DMA": 43.08,
-            "Dist from 200 DMA": "-4.1%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "SAMMAANCAP",
-            "Price (\u20b9)": 168.95,
-            "50 DMA": 164.28,
-            "100 DMA": 155.59,
-            "200 DMA": 155.41,
-            "Dist from 200 DMA": "8.72%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "AEGISVOPAK",
-            "Price (\u20b9)": 294.32,
-            "50 DMA": 214.44,
-            "100 DMA": 205.55,
-            "200 DMA": 228.84,
-            "Dist from 200 DMA": "28.61%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "BANKINDIA",
-            "Price (\u20b9)": 142.41,
-            "50 DMA": 140.46,
-            "100 DMA": 145.29,
-            "200 DMA": 141.49,
-            "Dist from 200 DMA": "0.65%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "MOREPENLAB",
-            "Price (\u20b9)": 61.19,
-            "50 DMA": 47.71,
-            "100 DMA": 43.8,
-            "200 DMA": 43.77,
-            "Dist from 200 DMA": "39.8%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "SBIN",
-            "Price (\u20b9)": 1038.1,
-            "50 DMA": 1004.6,
-            "100 DMA": 1047.59,
-            "200 DMA": 996.58,
-            "Dist from 200 DMA": "4.17%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "JUBLFOOD",
-            "Price (\u20b9)": 454.95,
-            "50 DMA": 439.92,
-            "100 DMA": 460.47,
-            "200 DMA": 517.21,
-            "Dist from 200 DMA": "-12.04%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "CGCL",
-            "Price (\u20b9)": 237.47,
-            "50 DMA": 203.45,
-            "100 DMA": 188.04,
-            "200 DMA": 187.4,
-            "Dist from 200 DMA": "26.72%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "IRB",
-            "Price (\u20b9)": 20.48,
-            "50 DMA": 21.22,
-            "100 DMA": 21.13,
-            "200 DMA": 21.14,
-            "Dist from 200 DMA": "-3.12%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "NHPC",
-            "Price (\u20b9)": 78.89,
-            "50 DMA": 78.35,
-            "100 DMA": 77.63,
-            "200 DMA": 78.76,
-            "Dist from 200 DMA": "0.17%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "NIITMTS",
-            "Price (\u20b9)": 244.59,
-            "50 DMA": 243.59,
-            "100 DMA": 281.36,
-            "200 DMA": 324.72,
-            "Dist from 200 DMA": "-24.68%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "RTNPOWER",
-            "Price (\u20b9)": 8.9,
-            "50 DMA": 9.46,
-            "100 DMA": 9.05,
-            "200 DMA": 9.56,
-            "Dist from 200 DMA": "-6.94%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "NBCC",
-            "Price (\u20b9)": 98.54,
-            "50 DMA": 100.66,
-            "100 DMA": 95.14,
-            "200 DMA": 102.88,
-            "Dist from 200 DMA": "-4.22%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "BAJFINANCE",
-            "Price (\u20b9)": 1042.5,
-            "50 DMA": 935.89,
-            "100 DMA": 926.88,
-            "200 DMA": 962.75,
-            "Dist from 200 DMA": "8.28%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "TRENT",
-            "Price (\u20b9)": 2927.8,
-            "50 DMA": 2914.86,
-            "100 DMA": 2747.07,
-            "200 DMA": 3360.59,
-            "Dist from 200 DMA": "-12.88%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "ASHOKLEY",
-            "Price (\u20b9)": 164.16,
-            "50 DMA": 155.4,
-            "100 DMA": 167.62,
-            "200 DMA": 163.0,
-            "Dist from 200 DMA": "0.71%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "FCL",
-            "Price (\u20b9)": 37.25,
-            "50 DMA": 35.77,
-            "100 DMA": 29.25,
-            "200 DMA": 26.8,
-            "Dist from 200 DMA": "38.97%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "BANDHANBNK",
-            "Price (\u20b9)": 205.1,
-            "50 DMA": 203.21,
-            "100 DMA": 185.98,
-            "200 DMA": 169.97,
-            "Dist from 200 DMA": "20.67%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "HARDWYN",
-            "Price (\u20b9)": 25.18,
-            "50 DMA": 24.86,
-            "100 DMA": 22.18,
-            "200 DMA": 18.97,
-            "Dist from 200 DMA": "32.76%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "SUMEETINDS",
-            "Price (\u20b9)": 31.14,
-            "50 DMA": 28.07,
-            "100 DMA": 28.17,
-            "200 DMA": 29.76,
-            "Dist from 200 DMA": "4.64%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "VMM",
-            "Price (\u20b9)": 117.28,
-            "50 DMA": 120.08,
-            "100 DMA": 117.43,
-            "200 DMA": 127.18,
-            "Dist from 200 DMA": "-7.79%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "SBC",
-            "Price (\u20b9)": 42.12,
-            "50 DMA": 37.71,
-            "100 DMA": 34.83,
-            "200 DMA": 30.45,
-            "Dist from 200 DMA": "38.33%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "SAIL",
-            "Price (\u20b9)": 165.66,
-            "50 DMA": 186.29,
-            "100 DMA": 173.42,
-            "200 DMA": 156.32,
-            "Dist from 200 DMA": "5.98%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "SHRIRAMFIN",
-            "Price (\u20b9)": 1066.8,
-            "50 DMA": 965.12,
-            "100 DMA": 984.37,
-            "200 DMA": 908.62,
-            "Dist from 200 DMA": "17.41%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "SAKSOFT",
-            "Price (\u20b9)": 176.6,
-            "50 DMA": 148.58,
-            "100 DMA": 143.14,
-            "200 DMA": 168.33,
-            "Dist from 200 DMA": "4.91%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "NTPC",
-            "Price (\u20b9)": 354.2,
-            "50 DMA": 375.32,
-            "100 DMA": 377.73,
-            "200 DMA": 355.45,
-            "Dist from 200 DMA": "-0.35%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "BEL",
-            "Price (\u20b9)": 419.15,
-            "50 DMA": 419.51,
-            "100 DMA": 429.25,
-            "200 DMA": 419.63,
-            "Dist from 200 DMA": "-0.11%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "NYKAA",
-            "Price (\u20b9)": 315.2,
-            "50 DMA": 279.2,
-            "100 DMA": 267.94,
-            "200 DMA": 261.16,
-            "Dist from 200 DMA": "20.69%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "EQUITASBNK",
-            "Price (\u20b9)": 79.24,
-            "50 DMA": 72.62,
-            "100 DMA": 67.05,
-            "200 DMA": 64.46,
-            "Dist from 200 DMA": "22.92%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "ANGELONE",
-            "Price (\u20b9)": 335.8,
-            "50 DMA": 331.29,
-            "100 DMA": 293.5,
-            "200 DMA": 270.37,
-            "Dist from 200 DMA": "24.2%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "TMPV",
-            "Price (\u20b9)": 342.3,
-            "50 DMA": 362.31,
-            "100 DMA": 352.6,
-            "200 DMA": 388.37,
-            "Dist from 200 DMA": "-11.86%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "DAVANGERE",
-            "Price (\u20b9)": 3.59,
-            "50 DMA": 3.74,
-            "100 DMA": 3.83,
-            "200 DMA": 3.9,
-            "Dist from 200 DMA": "-7.99%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "POWERGRID",
-            "Price (\u20b9)": 284.35,
-            "50 DMA": 295.52,
-            "100 DMA": 298.73,
-            "200 DMA": 284.13,
-            "Dist from 200 DMA": "0.08%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "VINCOFE",
-            "Price (\u20b9)": 161.16,
-            "50 DMA": 145.75,
-            "100 DMA": 141.39,
-            "200 DMA": 148.57,
-            "Dist from 200 DMA": "8.47%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "VBL",
-            "Price (\u20b9)": 484.25,
-            "50 DMA": 517.41,
-            "100 DMA": 477.8,
-            "200 DMA": 472.73,
-            "Dist from 200 DMA": "2.44%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "IRFC",
-            "Price (\u20b9)": 89.92,
-            "50 DMA": 97.81,
-            "100 DMA": 99.38,
-            "200 DMA": 109.41,
-            "Dist from 200 DMA": "-17.81%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "BPCL",
-            "Price (\u20b9)": 313.95,
-            "50 DMA": 301.12,
-            "100 DMA": 313.36,
-            "200 DMA": 329.55,
-            "Dist from 200 DMA": "-4.73%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "RAIN",
-            "Price (\u20b9)": 200.91,
-            "50 DMA": 174.36,
-            "100 DMA": 151.48,
-            "200 DMA": 141.3,
-            "Dist from 200 DMA": "42.19%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "POLICYBZR",
-            "Price (\u20b9)": 1608.0,
-            "50 DMA": 1652.92,
-            "100 DMA": 1580.81,
-            "200 DMA": 1666.89,
-            "Dist from 200 DMA": "-3.53%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "OMAXE",
-            "Price (\u20b9)": 88.27,
-            "50 DMA": 79.17,
-            "100 DMA": 77.57,
-            "200 DMA": 77.21,
-            "Dist from 200 DMA": "14.32%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "SPARC",
-            "Price (\u20b9)": 266.34,
-            "50 DMA": 204.33,
-            "100 DMA": 167.24,
-            "200 DMA": 151.13,
-            "Dist from 200 DMA": "76.23%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "HEXT",
-            "Price (\u20b9)": 541.0,
-            "50 DMA": 501.8,
-            "100 DMA": 482.35,
-            "200 DMA": 593.93,
-            "Dist from 200 DMA": "-8.91%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "RBLBANK",
-            "Price (\u20b9)": 375.1,
-            "50 DMA": 350.88,
-            "100 DMA": 331.08,
-            "200 DMA": 317.33,
-            "Dist from 200 DMA": "18.2%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "DIGITIDE",
-            "Price (\u20b9)": 108.5,
-            "50 DMA": 90.89,
-            "100 DMA": 90.83,
-            "200 DMA": 117.59,
-            "Dist from 200 DMA": "-7.73%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "LATENTVIEW",
-            "Price (\u20b9)": 301.05,
-            "50 DMA": 302.17,
-            "100 DMA": 307.01,
-            "200 DMA": 377.09,
-            "Dist from 200 DMA": "-20.16%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "LEMONTREE",
-            "Price (\u20b9)": 120.62,
-            "50 DMA": 114.71,
-            "100 DMA": 114.1,
-            "200 DMA": 135.11,
-            "Dist from 200 DMA": "-10.72%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "COCHINSHIP",
-            "Price (\u20b9)": 1445.7,
-            "50 DMA": 1535.72,
-            "100 DMA": 1493.57,
-            "200 DMA": 1584.58,
-            "Dist from 200 DMA": "-8.76%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "AXISBANK",
-            "Price (\u20b9)": 1341.0,
-            "50 DMA": 1305.15,
-            "100 DMA": 1305.56,
-            "200 DMA": 1276.83,
-            "Dist from 200 DMA": "5.03%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "CENTRALBK",
-            "Price (\u20b9)": 32.13,
-            "50 DMA": 32.83,
-            "100 DMA": 34.19,
-            "200 DMA": 35.54,
-            "Dist from 200 DMA": "-9.6%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "NTPCGREEN",
-            "Price (\u20b9)": 92.67,
-            "50 DMA": 101.88,
-            "100 DMA": 99.45,
-            "200 DMA": 97.43,
-            "Dist from 200 DMA": "-4.89%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "GAIL",
-            "Price (\u20b9)": 174.01,
-            "50 DMA": 167.85,
-            "100 DMA": 161.61,
-            "200 DMA": 165.18,
-            "Dist from 200 DMA": "5.35%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "MCLOUD",
-            "Price (\u20b9)": 30.67,
-            "50 DMA": 26.99,
-            "100 DMA": 25.72,
-            "200 DMA": 35.37,
-            "Dist from 200 DMA": "-13.28%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "BCG",
-            "Price (\u20b9)": 9.69,
-            "50 DMA": 10.09,
-            "100 DMA": 10.05,
-            "200 DMA": 11.07,
-            "Dist from 200 DMA": "-12.47%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "MCX",
-            "Price (\u20b9)": 2643.2,
-            "50 DMA": 2988.14,
-            "100 DMA": 2769.77,
-            "200 DMA": 2396.78,
-            "Dist from 200 DMA": "10.28%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "PFC",
-            "Price (\u20b9)": 413.15,
-            "50 DMA": 434.54,
-            "100 DMA": 427.17,
-            "200 DMA": 398.9,
-            "Dist from 200 DMA": "3.57%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "RAMCOSYS",
-            "Price (\u20b9)": 880.05,
-            "50 DMA": 530.79,
-            "100 DMA": 482.56,
-            "200 DMA": 519.5,
-            "Dist from 200 DMA": "69.4%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "ITCHOTELS",
-            "Price (\u20b9)": 186.79,
-            "50 DMA": 161.72,
-            "100 DMA": 161.46,
-            "200 DMA": 182.61,
-            "Dist from 200 DMA": "2.29%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "INDUSINDBK",
-            "Price (\u20b9)": 1022.25,
-            "50 DMA": 920.45,
-            "100 DMA": 892.5,
-            "200 DMA": 862.15,
-            "Dist from 200 DMA": "18.57%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "BHARTIARTL",
-            "Price (\u20b9)": 1925.8,
-            "50 DMA": 1853.29,
-            "100 DMA": 1863.33,
-            "200 DMA": 1951.17,
-            "Dist from 200 DMA": "-1.3%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "DLF",
-            "Price (\u20b9)": 651.1,
-            "50 DMA": 601.92,
-            "100 DMA": 590.85,
-            "200 DMA": 651.38,
-            "Dist from 200 DMA": "-0.04%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "BSE",
-            "Price (\u20b9)": 3683.4,
-            "50 DMA": 3968.14,
-            "100 DMA": 3482.48,
-            "200 DMA": 3047.75,
-            "Dist from 200 DMA": "20.86%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "AHCL",
-            "Price (\u20b9)": 15.62,
-            "50 DMA": 14.53,
-            "100 DMA": 13.4,
-            "200 DMA": 13.58,
-            "Dist from 200 DMA": "15.0%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "DELHIVERY",
-            "Price (\u20b9)": 517.9,
-            "50 DMA": 464.04,
-            "100 DMA": 449.56,
-            "200 DMA": 440.39,
-            "Dist from 200 DMA": "17.6%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "HINDPETRO",
-            "Price (\u20b9)": 405.95,
-            "50 DMA": 388.97,
-            "100 DMA": 387.11,
-            "200 DMA": 420.85,
-            "Dist from 200 DMA": "-3.54%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "PATELENG",
-            "Price (\u20b9)": 33.46,
-            "50 DMA": 29.03,
-            "100 DMA": 27.78,
-            "200 DMA": 30.45,
-            "Dist from 200 DMA": "9.9%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "INOXWIND",
-            "Price (\u20b9)": 86.14,
-            "50 DMA": 92.77,
-            "100 DMA": 91.41,
-            "200 DMA": 111.87,
-            "Dist from 200 DMA": "-23.0%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "COALINDIA",
-            "Price (\u20b9)": 428.95,
-            "50 DMA": 457.0,
-            "100 DMA": 449.45,
-            "200 DMA": 419.4,
-            "Dist from 200 DMA": "2.28%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "HCLTECH",
-            "Price (\u20b9)": 1168.2,
-            "50 DMA": 1151.84,
-            "100 DMA": 1255.31,
-            "200 DMA": 1401.3,
-            "Dist from 200 DMA": "-16.63%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "URBANCO",
-            "Price (\u20b9)": 138.52,
-            "50 DMA": 129.78,
-            "100 DMA": 125.23,
-            "200 DMA": 133.57,
-            "Dist from 200 DMA": "3.7%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "NIITLTD",
-            "Price (\u20b9)": 100.27,
-            "50 DMA": 83.86,
-            "100 DMA": 75.28,
-            "200 DMA": 85.06,
-            "Dist from 200 DMA": "17.88%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "PPLPHARMA",
-            "Price (\u20b9)": 175.23,
-            "50 DMA": 169.8,
-            "100 DMA": 160.54,
-            "200 DMA": 171.46,
-            "Dist from 200 DMA": "2.2%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "DEVYANI",
-            "Price (\u20b9)": 116.37,
-            "50 DMA": 115.5,
-            "100 DMA": 114.72,
-            "200 DMA": 130.26,
-            "Dist from 200 DMA": "-10.66%",
+            "Symbol": "EASEMYTRIP",
+            "Price (\u20b9)": 6.85,
+            "50 DMA": 7.64,
+            "100 DMA": 7.62,
+            "200 DMA": 7.59,
+            "Dist from 200 DMA": "-9.73%",
             "CAR Signal": "AVOID (CAR Falling)"
         },
         {
-            "Symbol": "UTKARSHBNK",
-            "Price (\u20b9)": 14.58,
-            "50 DMA": 13.91,
-            "100 DMA": 13.46,
-            "200 DMA": 15.12,
-            "Dist from 200 DMA": "-3.54%",
+            "Symbol": "RPOWER",
+            "Price (\u20b9)": 24.63,
+            "50 DMA": 26.9,
+            "100 DMA": 25.95,
+            "200 DMA": 32.12,
+            "Dist from 200 DMA": "-23.31%",
             "CAR Signal": "AVOID (CAR Falling)"
         },
         {
-            "Symbol": "ALLCARGO",
-            "Price (\u20b9)": 8.03,
-            "50 DMA": 8.89,
-            "100 DMA": 8.66,
-            "200 DMA": 14.09,
-            "Dist from 200 DMA": "-43.02%",
+            "Symbol": "HDFCBANK",
+            "Price (\u20b9)": 810.3,
+            "50 DMA": 765.73,
+            "100 DMA": 790.99,
+            "200 DMA": 874.65,
+            "Dist from 200 DMA": "-7.36%",
             "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "NATIONALUM",
-            "Price (\u20b9)": 342.55,
-            "50 DMA": 387.97,
-            "100 DMA": 386.98,
-            "200 DMA": 330.7,
-            "Dist from 200 DMA": "3.58%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "INDIANB",
-            "Price (\u20b9)": 785.95,
-            "50 DMA": 825.52,
-            "100 DMA": 862.03,
-            "200 DMA": 833.26,
-            "Dist from 200 DMA": "-5.68%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "TCS",
-            "Price (\u20b9)": 2096.1,
-            "50 DMA": 2228.35,
-            "100 DMA": 2365.83,
-            "200 DMA": 2697.05,
-            "Dist from 200 DMA": "-22.28%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "VIKRAN",
-            "Price (\u20b9)": 76.95,
-            "50 DMA": 71.87,
-            "100 DMA": 69.37,
-            "200 DMA": 83.68,
-            "Dist from 200 DMA": "-8.04%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "PGEL",
-            "Price (\u20b9)": 578.6,
-            "50 DMA": 511.67,
-            "100 DMA": 531.07,
-            "200 DMA": 548.73,
-            "Dist from 200 DMA": "5.44%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "SMALLCAP",
-            "Price (\u20b9)": 46.98,
-            "50 DMA": 45.39,
-            "100 DMA": 43.34,
-            "200 DMA": 43.88,
-            "Dist from 200 DMA": "7.06%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "TFCILTD",
-            "Price (\u20b9)": 78.95,
-            "50 DMA": 75.84,
-            "100 DMA": 72.69,
-            "200 DMA": 70.39,
-            "Dist from 200 DMA": "12.16%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "TRIDENT",
-            "Price (\u20b9)": 25.94,
-            "50 DMA": 25.1,
-            "100 DMA": 24.75,
-            "200 DMA": 25.93,
-            "Dist from 200 DMA": "0.02%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "TEXRAIL",
-            "Price (\u20b9)": 118.77,
-            "50 DMA": 109.55,
-            "100 DMA": 104.63,
-            "200 DMA": 118.18,
-            "Dist from 200 DMA": "0.5%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "TATAPOWER",
-            "Price (\u20b9)": 377.2,
-            "50 DMA": 407.26,
-            "100 DMA": 399.98,
-            "200 DMA": 390.4,
-            "Dist from 200 DMA": "-3.38%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "MOSCHIP",
-            "Price (\u20b9)": 225.9,
-            "50 DMA": 211.2,
-            "100 DMA": 196.25,
-            "200 DMA": 209.72,
-            "Dist from 200 DMA": "7.72%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "HINDALCO",
-            "Price (\u20b9)": 969.5,
-            "50 DMA": 1044.17,
-            "100 DMA": 996.25,
-            "200 DMA": 919.99,
-            "Dist from 200 DMA": "5.38%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "ZENSARTECH",
-            "Price (\u20b9)": 467.7,
-            "50 DMA": 481.41,
-            "100 DMA": 520.98,
-            "200 DMA": 627.28,
-            "Dist from 200 DMA": "-25.44%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "FILATEX",
-            "Price (\u20b9)": 57.64,
-            "50 DMA": 48.49,
-            "100 DMA": 45.85,
-            "200 DMA": 49.04,
-            "Dist from 200 DMA": "17.54%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "BSOFT",
-            "Price (\u20b9)": 281.65,
-            "50 DMA": 323.76,
-            "100 DMA": 349.27,
-            "200 DMA": 373.8,
-            "Dist from 200 DMA": "-24.65%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "ABCAPITAL",
-            "Price (\u20b9)": 405.4,
-            "50 DMA": 365.22,
-            "100 DMA": 347.92,
-            "200 DMA": 340.41,
-            "Dist from 200 DMA": "19.09%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "RECLTD",
-            "Price (\u20b9)": 356.25,
-            "50 DMA": 350.32,
-            "100 DMA": 347.5,
-            "200 DMA": 352.06,
-            "Dist from 200 DMA": "1.19%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "INDHOTEL",
-            "Price (\u20b9)": 745.95,
-            "50 DMA": 674.78,
-            "100 DMA": 656.43,
-            "200 DMA": 686.43,
-            "Dist from 200 DMA": "8.67%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "PETRONET",
-            "Price (\u20b9)": 279.6,
-            "50 DMA": 274.62,
-            "100 DMA": 276.15,
-            "200 DMA": 275.08,
-            "Dist from 200 DMA": "1.64%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "BAJAJHIND",
-            "Price (\u20b9)": 17.48,
-            "50 DMA": 18.83,
-            "100 DMA": 17.87,
-            "200 DMA": 18.75,
-            "Dist from 200 DMA": "-6.75%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "ADANIENSOL",
-            "Price (\u20b9)": 1651.0,
-            "50 DMA": 1460.16,
-            "100 DMA": 1265.1,
-            "200 DMA": 1111.99,
-            "Dist from 200 DMA": "48.47%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "ABFRL",
-            "Price (\u20b9)": 59.63,
-            "50 DMA": 62.39,
-            "100 DMA": 62.84,
-            "200 DMA": 70.42,
-            "Dist from 200 DMA": "-15.33%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "TECHM",
-            "Price (\u20b9)": 1447.5,
-            "50 DMA": 1411.5,
-            "100 DMA": 1397.67,
-            "200 DMA": 1447.33,
-            "Dist from 200 DMA": "0.01%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "LTF",
-            "Price (\u20b9)": 334.2,
-            "50 DMA": 286.15,
-            "100 DMA": 279.68,
-            "200 DMA": 281.33,
-            "Dist from 200 DMA": "18.79%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "FEDERALBNK",
-            "Price (\u20b9)": 331.55,
-            "50 DMA": 303.88,
-            "100 DMA": 293.08,
-            "200 DMA": 269.15,
-            "Dist from 200 DMA": "23.18%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "IDBI",
-            "Price (\u20b9)": 83.36,
-            "50 DMA": 77.15,
-            "100 DMA": 82.77,
-            "200 DMA": 90.79,
-            "Dist from 200 DMA": "-8.19%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "JSWENERGY",
-            "Price (\u20b9)": 544.2,
-            "50 DMA": 562.36,
-            "100 DMA": 531.77,
-            "200 DMA": 516.48,
-            "Dist from 200 DMA": "5.37%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "BAJAJHFL",
-            "Price (\u20b9)": 88.53,
-            "50 DMA": 85.82,
-            "100 DMA": 85.48,
-            "200 DMA": 93.56,
-            "Dist from 200 DMA": "-5.38%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "CUB",
-            "Price (\u20b9)": 227.97,
-            "50 DMA": 196.97,
-            "100 DMA": 196.44,
-            "200 DMA": 195.31,
-            "Dist from 200 DMA": "16.72%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "RENUKA",
-            "Price (\u20b9)": 23.31,
-            "50 DMA": 24.04,
-            "100 DMA": 24.86,
-            "200 DMA": 26.19,
-            "Dist from 200 DMA": "-11.01%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "AVANTEL",
-            "Price (\u20b9)": 177.65,
-            "50 DMA": 166.77,
-            "100 DMA": 154.92,
-            "200 DMA": 159.28,
-            "Dist from 200 DMA": "11.53%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "KPITTECH",
-            "Price (\u20b9)": 562.4,
-            "50 DMA": 728.99,
-            "100 DMA": 732.7,
-            "200 DMA": 951.05,
-            "Dist from 200 DMA": "-40.87%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "M&MFIN",
-            "Price (\u20b9)": 332.2,
-            "50 DMA": 308.28,
-            "100 DMA": 319.47,
-            "200 DMA": 327.96,
-            "Dist from 200 DMA": "1.29%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "JYOTISTRUC",
-            "Price (\u20b9)": 11.44,
-            "50 DMA": 12.49,
-            "100 DMA": 12.01,
-            "200 DMA": 11.85,
-            "Dist from 200 DMA": "-3.5%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "PAYTM",
-            "Price (\u20b9)": 1246.0,
-            "50 DMA": 1120.81,
-            "100 DMA": 1104.93,
-            "200 DMA": 1186.13,
-            "Dist from 200 DMA": "5.05%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "MUNJALAU",
-            "Price (\u20b9)": 103.94,
-            "50 DMA": 92.47,
-            "100 DMA": 85.28,
-            "200 DMA": 85.13,
-            "Dist from 200 DMA": "22.1%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "KRISHANA",
-            "Price (\u20b9)": 129.4,
-            "50 DMA": 135.44,
-            "100 DMA": 121.05,
-            "200 DMA": 111.87,
-            "Dist from 200 DMA": "15.67%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "RSYSTEMS",
-            "Price (\u20b9)": 236.71,
-            "50 DMA": 261.39,
-            "100 DMA": 269.83,
-            "200 DMA": 333.21,
-            "Dist from 200 DMA": "-28.96%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "SALASAR",
-            "Price (\u20b9)": 6.11,
-            "50 DMA": 6.93,
-            "100 DMA": 7.13,
-            "200 DMA": 8.15,
-            "Dist from 200 DMA": "-25.03%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "LICI",
-            "Price (\u20b9)": 435.4,
-            "50 DMA": 403.99,
-            "100 DMA": 401.0,
-            "200 DMA": 413.71,
-            "Dist from 200 DMA": "5.24%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "MANAPPURAM",
-            "Price (\u20b9)": 342.1,
-            "50 DMA": 314.64,
-            "100 DMA": 294.91,
-            "200 DMA": 291.5,
-            "Dist from 200 DMA": "17.36%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "MODEFENCE",
-            "Price (\u20b9)": 104.04,
-            "50 DMA": 101.2,
-            "100 DMA": 95.36,
-            "200 DMA": 91.25,
-            "Dist from 200 DMA": "14.02%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "ATHERENERG",
-            "Price (\u20b9)": 1140.6,
-            "50 DMA": 985.06,
-            "100 DMA": 877.32,
-            "200 DMA": 768.87,
-            "Dist from 200 DMA": "48.35%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "COFORGE",
-            "Price (\u20b9)": 1516.2,
-            "50 DMA": 1391.51,
-            "100 DMA": 1305.02,
-            "200 DMA": 1522.16,
-            "Dist from 200 DMA": "-0.39%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "HINDZINC",
-            "Price (\u20b9)": 531.1,
-            "50 DMA": 591.85,
-            "100 DMA": 576.36,
-            "200 DMA": 555.02,
-            "Dist from 200 DMA": "-4.31%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "LLOYDSENT",
-            "Price (\u20b9)": 74.59,
-            "50 DMA": 71.09,
-            "100 DMA": 62.38,
-            "200 DMA": 62.71,
-            "Dist from 200 DMA": "18.95%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "TITAN",
-            "Price (\u20b9)": 4604.2,
-            "50 DMA": 4253.43,
-            "100 DMA": 4251.5,
-            "200 DMA": 4047.68,
-            "Dist from 200 DMA": "13.75%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "IREDA",
-            "Price (\u20b9)": 125.16,
-            "50 DMA": 128.12,
-            "100 DMA": 125.01,
-            "200 DMA": 133.64,
-            "Dist from 200 DMA": "-6.35%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "BIOCON",
-            "Price (\u20b9)": 406.9,
-            "50 DMA": 411.11,
-            "100 DMA": 391.32,
-            "200 DMA": 384.11,
-            "Dist from 200 DMA": "5.93%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "CGPOWER",
-            "Price (\u20b9)": 910.5,
-            "50 DMA": 895.69,
-            "100 DMA": 808.38,
-            "200 DMA": 746.72,
-            "Dist from 200 DMA": "21.93%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "AEGISLOG",
-            "Price (\u20b9)": 1383.7,
-            "50 DMA": 875.45,
-            "100 DMA": 766.58,
-            "200 DMA": 760.87,
-            "Dist from 200 DMA": "81.86%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "MRPL",
-            "Price (\u20b9)": 146.49,
-            "50 DMA": 154.88,
-            "100 DMA": 170.08,
-            "200 DMA": 160.76,
-            "Dist from 200 DMA": "-8.87%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "TBZ",
-            "Price (\u20b9)": 198.71,
-            "50 DMA": 164.08,
-            "100 DMA": 152.62,
-            "200 DMA": 163.68,
-            "Dist from 200 DMA": "21.4%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "ALOKINDS",
-            "Price (\u20b9)": 12.76,
-            "50 DMA": 13.01,
-            "100 DMA": 13.34,
-            "200 DMA": 14.99,
-            "Dist from 200 DMA": "-14.89%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "J&KBANK",
-            "Price (\u20b9)": 163.71,
-            "50 DMA": 147.22,
-            "100 DMA": 132.66,
-            "200 DMA": 118.31,
-            "Dist from 200 DMA": "38.37%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "EXIDEIND",
-            "Price (\u20b9)": 414.5,
-            "50 DMA": 375.84,
-            "100 DMA": 347.99,
-            "200 DMA": 358.66,
-            "Dist from 200 DMA": "15.57%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "TATATECH",
-            "Price (\u20b9)": 726.55,
-            "50 DMA": 688.01,
-            "100 DMA": 623.33,
-            "200 DMA": 642.42,
-            "Dist from 200 DMA": "13.1%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "ATALREAL",
-            "Price (\u20b9)": 28.61,
-            "50 DMA": 28.95,
-            "100 DMA": 26.64,
-            "200 DMA": 25.48,
-            "Dist from 200 DMA": "12.27%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "UCOBANK",
-            "Price (\u20b9)": 26.4,
-            "50 DMA": 26.09,
-            "100 DMA": 26.11,
-            "200 DMA": 27.92,
-            "Dist from 200 DMA": "-5.46%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "UNITECH",
-            "Price (\u20b9)": 4.66,
-            "50 DMA": 4.82,
-            "100 DMA": 4.78,
-            "200 DMA": 5.51,
-            "Dist from 200 DMA": "-15.36%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "PARADEEP",
-            "Price (\u20b9)": 139.2,
-            "50 DMA": 129.39,
-            "100 DMA": 123.81,
-            "200 DMA": 142.24,
-            "Dist from 200 DMA": "-2.14%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "ARKADE",
-            "Price (\u20b9)": 131.06,
-            "50 DMA": 118.52,
-            "100 DMA": 115.15,
-            "200 DMA": 133.58,
-            "Dist from 200 DMA": "-1.88%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "BLUEJET",
-            "Price (\u20b9)": 579.15,
-            "50 DMA": 484.95,
-            "100 DMA": 434.36,
-            "200 DMA": 499.71,
-            "Dist from 200 DMA": "15.9%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "EIEL",
-            "Price (\u20b9)": 231.49,
-            "50 DMA": 204.36,
-            "100 DMA": 186.11,
-            "200 DMA": 201.34,
-            "Dist from 200 DMA": "14.97%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "NAZARA",
-            "Price (\u20b9)": 301.25,
-            "50 DMA": 284.99,
-            "100 DMA": 269.83,
-            "200 DMA": 266.73,
-            "Dist from 200 DMA": "12.94%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "JTLIND",
-            "Price (\u20b9)": 82.45,
-            "50 DMA": 74.77,
-            "100 DMA": 67.36,
-            "200 DMA": 66.79,
-            "Dist from 200 DMA": "23.45%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "AEROFLEX",
-            "Price (\u20b9)": 413.5,
-            "50 DMA": 417.34,
-            "100 DMA": 331.68,
-            "200 DMA": 256.64,
-            "Dist from 200 DMA": "61.12%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "JNKINDIA",
-            "Price (\u20b9)": 488.45,
-            "50 DMA": 420.2,
-            "100 DMA": 340.88,
-            "200 DMA": 299.66,
-            "Dist from 200 DMA": "63.0%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "OIL",
-            "Price (\u20b9)": 423.15,
-            "50 DMA": 459.61,
-            "100 DMA": 466.17,
-            "200 DMA": 442.97,
-            "Dist from 200 DMA": "-4.47%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "FISCHER",
-            "Price (\u20b9)": 37.54,
-            "50 DMA": 36.3,
-            "100 DMA": 37.41,
-            "200 DMA": 51.66,
-            "Dist from 200 DMA": "-27.34%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "PHOENIXLTD",
-            "Price (\u20b9)": 2075.1,
-            "50 DMA": 1822.87,
-            "100 DMA": 1745.34,
-            "200 DMA": 1736.58,
-            "Dist from 200 DMA": "19.49%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "HDFCLIFE",
-            "Price (\u20b9)": 572.45,
-            "50 DMA": 588.53,
-            "100 DMA": 616.32,
-            "200 DMA": 683.04,
-            "Dist from 200 DMA": "-16.19%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "HINDUNILVR",
-            "Price (\u20b9)": 2208.8,
-            "50 DMA": 2182.77,
-            "100 DMA": 2191.3,
-            "200 DMA": 2292.91,
-            "Dist from 200 DMA": "-3.67%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "STEELXIND",
-            "Price (\u20b9)": 12.68,
-            "50 DMA": 11.56,
-            "100 DMA": 9.92,
-            "200 DMA": 9.51,
-            "Dist from 200 DMA": "33.36%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "JSWSTEEL",
-            "Price (\u20b9)": 1246.4,
-            "50 DMA": 1264.71,
-            "100 DMA": 1233.87,
-            "200 DMA": 1193.27,
-            "Dist from 200 DMA": "4.45%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "GENUSPOWER",
-            "Price (\u20b9)": 309.5,
-            "50 DMA": 317.8,
-            "100 DMA": 289.56,
-            "200 DMA": 296.88,
-            "Dist from 200 DMA": "4.25%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "LODHA",
-            "Price (\u20b9)": 1102.55,
-            "50 DMA": 921.94,
-            "100 DMA": 904.52,
-            "200 DMA": 1011.12,
-            "Dist from 200 DMA": "9.04%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "ARFIN",
-            "Price (\u20b9)": 91.23,
-            "50 DMA": 92.14,
-            "100 DMA": 85.98,
-            "200 DMA": 73.64,
-            "Dist from 200 DMA": "23.88%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "ENGINERSIN",
-            "Price (\u20b9)": 242.2,
-            "50 DMA": 242.35,
-            "100 DMA": 226.15,
-            "200 DMA": 209.64,
-            "Dist from 200 DMA": "15.53%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "LT",
-            "Price (\u20b9)": 3991.9,
-            "50 DMA": 4019.7,
-            "100 DMA": 3954.32,
-            "200 DMA": 3924.8,
-            "Dist from 200 DMA": "1.71%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "HDFCSML250",
-            "Price (\u20b9)": 180.58,
-            "50 DMA": 173.02,
-            "100 DMA": 165.17,
-            "200 DMA": 166.56,
-            "Dist from 200 DMA": "8.42%",
-            "CAR Signal": "Short History"
-        },
-        {
-            "Symbol": "PARACABLES",
-            "Price (\u20b9)": 68.41,
-            "50 DMA": 61.58,
-            "100 DMA": 48.34,
-            "200 DMA": 44.06,
-            "Dist from 200 DMA": "55.26%",
-            "CAR Signal": "Short History"
         },
         {
-            "Symbol": "M&M",
-            "Price (\u20b9)": 3196.4,
-            "50 DMA": 3082.57,
-            "100 DMA": 3138.76,
-            "200 DMA": 3355.44,
-            "Dist from 200 DMA": "-4.74%",
+            "Symbol": "CANBK",
+            "Price (\u20b9)": 121.15,
+            "50 DMA": 128.3,
+            "100 DMA": 132.62,
+            "200 DMA": 135.03,
+            "Dist from 200 DMA": "-10.28%",
             "CAR Signal": "AVOID (CAR Falling)"
         },
         {
-            "Symbol": "IGL",
-            "Price (\u20b9)": 152.28,
-            "50 DMA": 162.69,
-            "100 DMA": 161.78,
-            "200 DMA": 177.79,
+            "Symbol": "JIOFIN",
+            "Price (\u20b9)": 229.99,
+            "50 DMA": 239.05,
+            "100 DMA": 241.67,
+            "200 DMA": 268.53,
             "Dist from 200 DMA": "-14.35%",
             "CAR Signal": "AVOID (CAR Falling)"
         },
         {
-            "Symbol": "SHAKTIPUMP",
-            "Price (\u20b9)": 596.0,
-            "50 DMA": 543.11,
-            "100 DMA": 535.65,
-            "200 DMA": 633.63,
-            "Dist from 200 DMA": "-5.94%",
+            "Symbol": "SWIGGY",
+            "Price (\u20b9)": 261.41,
+            "50 DMA": 255.82,
+            "100 DMA": 273.82,
+            "200 DMA": 332.0,
+            "Dist from 200 DMA": "-21.26%",
             "CAR Signal": "AVOID (CAR Falling)"
         },
         {
-            "Symbol": "GANESHHOU",
-            "Price (\u20b9)": 845.2,
-            "50 DMA": 730.28,
-            "100 DMA": 682.18,
-            "200 DMA": 744.45,
-            "Dist from 200 DMA": "13.53%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "VIKRAMSOLR",
-            "Price (\u20b9)": 183.46,
-            "50 DMA": 203.48,
-            "100 DMA": 201.36,
-            "200 DMA": 238.04,
-            "Dist from 200 DMA": "-22.93%",
+            "Symbol": "HCC",
+            "Price (\u20b9)": 22.8,
+            "50 DMA": 23.71,
+            "100 DMA": 20.54,
+            "200 DMA": 21.77,
+            "Dist from 200 DMA": "4.73%",
             "CAR Signal": "AVOID (CAR Falling)"
         },
         {
-            "Symbol": "CYIENTDLM",
-            "Price (\u20b9)": 536.8,
-            "50 DMA": 442.89,
-            "100 DMA": 382.33,
-            "200 DMA": 403.49,
-            "Dist from 200 DMA": "33.04%",
+            "Symbol": "IOC",
+            "Price (\u20b9)": 137.63,
+            "50 DMA": 140.99,
+            "100 DMA": 147.74,
+            "200 DMA": 152.14,
+            "Dist from 200 DMA": "-9.54%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "IOLCP",
+            "Price (\u20b9)": 167.11,
+            "50 DMA": 125.05,
+            "100 DMA": 101.48,
+            "200 DMA": 94.43,
+            "Dist from 200 DMA": "76.97%",
             "CAR Signal": "Short History"
         },
         {
-            "Symbol": "TEJASNET",
-            "Price (\u20b9)": 546.95,
-            "50 DMA": 531.19,
-            "100 DMA": 470.33,
-            "200 DMA": 476.77,
-            "Dist from 200 DMA": "14.72%",
-            "CAR Signal": "BUY (CAR Rising)"
-        },
-        {
-            "Symbol": "NATCOPHARM",
-            "Price (\u20b9)": 984.15,
-            "50 DMA": 1015.61,
-            "100 DMA": 1004.4,
-            "200 DMA": 930.02,
-            "Dist from 200 DMA": "5.82%",
-            "CAR Signal": "AVOID (CAR Falling)"
-        },
-        {
-            "Symbol": "LAURUSLABS",
-            "Price (\u20b9)": 1477.4,
-            "50 DMA": 1361.92,
-            "100 DMA": 1203.5,
-            "200 DMA": 1093.44,
-            "Dist from 200 DMA": "35.11%",
+            "Symbol": "ITDC",
+            "Price (\u20b9)": 723.4,
+            "50 DMA": 586.11,
+            "100 DMA": 545.92,
+            "200 DMA": 563.51,
+            "Dist from 200 DMA": "28.37%",
             "CAR Signal": "Short History"
         },
         {
-            "Symbol": "HINDCOPPER",
-            "Price (\u20b9)": 495.45,
-            "50 DMA": 532.46,
-            "100 DMA": 534.44,
-            "200 DMA": 473.88,
-            "Dist from 200 DMA": "4.55%",
+            "Symbol": "GMRAIRPORT",
+            "Price (\u20b9)": 111.01,
+            "50 DMA": 102.53,
+            "100 DMA": 98.69,
+            "200 DMA": 97.98,
+            "Dist from 200 DMA": "13.3%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "PNB",
+            "Price (\u20b9)": 100.95,
+            "50 DMA": 104.27,
+            "100 DMA": 108.31,
+            "200 DMA": 112.71,
+            "Dist from 200 DMA": "-10.43%",
             "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "MOTISONS",
+            "Price (\u20b9)": 14.09,
+            "50 DMA": 13.03,
+            "100 DMA": 13.5,
+            "200 DMA": 14.62,
+            "Dist from 200 DMA": "-3.62%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "ADANIPOWER",
+            "Price (\u20b9)": 216.48,
+            "50 DMA": 226.51,
+            "100 DMA": 194.55,
+            "200 DMA": 171.42,
+            "Dist from 200 DMA": "26.29%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "SAGILITY",
+            "Price (\u20b9)": 40.38,
+            "50 DMA": 41.02,
+            "100 DMA": 41.24,
+            "200 DMA": 45.27,
+            "Dist from 200 DMA": "-10.81%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "ASHOKLEY",
+            "Price (\u20b9)": 156.22,
+            "50 DMA": 155.27,
+            "100 DMA": 167.16,
+            "200 DMA": 163.11,
+            "Dist from 200 DMA": "-4.23%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "ONGC",
+            "Price (\u20b9)": 247.0,
+            "50 DMA": 266.07,
+            "100 DMA": 271.84,
+            "200 DMA": 255.0,
+            "Dist from 200 DMA": "-3.14%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "SEPC",
+            "Price (\u20b9)": 6.48,
+            "50 DMA": 7.24,
+            "100 DMA": 7.09,
+            "200 DMA": 8.68,
+            "Dist from 200 DMA": "-25.38%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "ZEEL",
+            "Price (\u20b9)": 99.56,
+            "50 DMA": 99.14,
+            "100 DMA": 91.01,
+            "200 DMA": 94.44,
+            "Dist from 200 DMA": "5.43%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "MASTERTR",
+            "Price (\u20b9)": 80.51,
+            "50 DMA": 82.21,
+            "100 DMA": 79.68,
+            "200 DMA": 100.06,
+            "Dist from 200 DMA": "-19.54%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "KOTAKBANK",
+            "Price (\u20b9)": 370.1,
+            "50 DMA": 388.44,
+            "100 DMA": 387.99,
+            "200 DMA": 405.99,
+            "Dist from 200 DMA": "-8.84%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "ITC",
+            "Price (\u20b9)": 280.65,
+            "50 DMA": 291.74,
+            "100 DMA": 295.43,
+            "200 DMA": 330.75,
+            "Dist from 200 DMA": "-15.15%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "IDFCFIRSTB",
+            "Price (\u20b9)": 77.82,
+            "50 DMA": 73.49,
+            "100 DMA": 71.03,
+            "200 DMA": 75.45,
+            "Dist from 200 DMA": "3.14%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "VEDL",
+            "Price (\u20b9)": 272.3,
+            "50 DMA": 307.6,
+            "100 DMA": 505.29,
+            "200 DMA": 526.25,
+            "Dist from 200 DMA": "-48.26%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "PAISALO",
+            "Price (\u20b9)": 70.42,
+            "50 DMA": 55.5,
+            "100 DMA": 46.32,
+            "200 DMA": 41.35,
+            "Dist from 200 DMA": "70.3%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "JINDRILL",
+            "Price (\u20b9)": 601.05,
+            "50 DMA": 587.28,
+            "100 DMA": 546.93,
+            "200 DMA": 547.67,
+            "Dist from 200 DMA": "9.75%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "CGCL",
+            "Price (\u20b9)": 237.06,
+            "50 DMA": 204.52,
+            "100 DMA": 188.64,
+            "200 DMA": 187.63,
+            "Dist from 200 DMA": "26.34%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "MAHABANK",
+            "Price (\u20b9)": 80.6,
+            "50 DMA": 82.82,
+            "100 DMA": 75.6,
+            "200 DMA": 66.92,
+            "Dist from 200 DMA": "20.44%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "RELIANCE",
+            "Price (\u20b9)": 1275.9,
+            "50 DMA": 1334.17,
+            "100 DMA": 1355.17,
+            "200 DMA": 1411.47,
+            "Dist from 200 DMA": "-9.6%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "TFCILTD",
+            "Price (\u20b9)": 75.34,
+            "50 DMA": 75.88,
+            "100 DMA": 72.71,
+            "200 DMA": 70.41,
+            "Dist from 200 DMA": "7.0%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "HINDPETRO",
+            "Price (\u20b9)": 386.85,
+            "50 DMA": 389.1,
+            "100 DMA": 386.36,
+            "200 DMA": 420.78,
+            "Dist from 200 DMA": "-8.06%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "NHPC",
+            "Price (\u20b9)": 78.81,
+            "50 DMA": 78.25,
+            "100 DMA": 77.64,
+            "200 DMA": 78.72,
+            "Dist from 200 DMA": "0.11%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "MOTHERSON",
+            "Price (\u20b9)": 140.65,
+            "50 DMA": 138.9,
+            "100 DMA": 130.21,
+            "200 DMA": 121.23,
+            "Dist from 200 DMA": "16.02%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "TATASTEEL",
+            "Price (\u20b9)": 188.2,
+            "50 DMA": 201.15,
+            "100 DMA": 199.83,
+            "200 DMA": 186.89,
+            "Dist from 200 DMA": "0.7%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "GEMAROMA",
+            "Price (\u20b9)": 203.62,
+            "50 DMA": 168.15,
+            "100 DMA": 172.29,
+            "200 DMA": 182.06,
+            "Dist from 200 DMA": "11.84%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "BANKBARODA",
+            "Price (\u20b9)": 240.45,
+            "50 DMA": 263.43,
+            "100 DMA": 269.45,
+            "200 DMA": 272.32,
+            "Dist from 200 DMA": "-11.7%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "ABINFRA",
+            "Price (\u20b9)": 10.18,
+            "50 DMA": 12.03,
+            "100 DMA": 14.71,
+            "200 DMA": 16.89,
+            "Dist from 200 DMA": "-39.72%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "WIPRO",
+            "Price (\u20b9)": 172.72,
+            "50 DMA": 189.08,
+            "100 DMA": 194.99,
+            "200 DMA": 219.35,
+            "Dist from 200 DMA": "-21.26%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "HFCL",
+            "Price (\u20b9)": 214.74,
+            "50 DMA": 175.54,
+            "100 DMA": 126.57,
+            "200 DMA": 98.63,
+            "Dist from 200 DMA": "117.73%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "APOLLO",
+            "Price (\u20b9)": 393.4,
+            "50 DMA": 381.25,
+            "100 DMA": 305.65,
+            "200 DMA": 289.36,
+            "Dist from 200 DMA": "35.96%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "BPCL",
+            "Price (\u20b9)": 303.55,
+            "50 DMA": 301.12,
+            "100 DMA": 312.52,
+            "200 DMA": 329.52,
+            "Dist from 200 DMA": "-7.88%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "MOSCHIP",
+            "Price (\u20b9)": 231.29,
+            "50 DMA": 211.75,
+            "100 DMA": 196.58,
+            "200 DMA": 209.59,
+            "Dist from 200 DMA": "10.35%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "INDUSTOWER",
+            "Price (\u20b9)": 388.55,
+            "50 DMA": 413.24,
+            "100 DMA": 425.21,
+            "200 DMA": 412.42,
+            "Dist from 200 DMA": "-5.79%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "BANKINDIA",
+            "Price (\u20b9)": 135.12,
+            "50 DMA": 140.39,
+            "100 DMA": 145.03,
+            "200 DMA": 141.59,
+            "Dist from 200 DMA": "-4.57%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "ABFRL",
+            "Price (\u20b9)": 58.31,
+            "50 DMA": 62.26,
+            "100 DMA": 62.72,
+            "200 DMA": 70.27,
+            "Dist from 200 DMA": "-17.01%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "RTNPOWER",
+            "Price (\u20b9)": 8.79,
+            "50 DMA": 9.43,
+            "100 DMA": 9.05,
+            "200 DMA": 9.55,
+            "Dist from 200 DMA": "-7.92%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "DIACABS",
+            "Price (\u20b9)": 231.33,
+            "50 DMA": 195.33,
+            "100 DMA": 166.45,
+            "200 DMA": 154.2,
+            "Dist from 200 DMA": "50.02%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "SBIN",
+            "Price (\u20b9)": 1016.9,
+            "50 DMA": 1003.59,
+            "100 DMA": 1046.14,
+            "200 DMA": 997.46,
+            "Dist from 200 DMA": "1.95%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "IRFC",
+            "Price (\u20b9)": 87.5,
+            "50 DMA": 97.46,
+            "100 DMA": 99.13,
+            "200 DMA": 109.21,
+            "Dist from 200 DMA": "-19.88%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "NBCC",
+            "Price (\u20b9)": 94.78,
+            "50 DMA": 100.69,
+            "100 DMA": 95.08,
+            "200 DMA": 102.81,
+            "Dist from 200 DMA": "-7.81%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "GROWWSLVR",
+            "Price (\u20b9)": 21.5,
+            "50 DMA": 24.06,
+            "100 DMA": 24.02,
+            "200 DMA": 98.93,
+            "Dist from 200 DMA": "-78.27%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "BHEL",
+            "Price (\u20b9)": 377.8,
+            "50 DMA": 397.16,
+            "100 DMA": 336.12,
+            "200 DMA": 300.35,
+            "Dist from 200 DMA": "25.78%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "UNIONBANK",
+            "Price (\u20b9)": 154.39,
+            "50 DMA": 162.73,
+            "100 DMA": 170.42,
+            "200 DMA": 160.24,
+            "Dist from 200 DMA": "-3.65%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "INFY",
+            "Price (\u20b9)": 1069.3,
+            "50 DMA": 1116.8,
+            "100 DMA": 1189.31,
+            "200 DMA": 1354.26,
+            "Dist from 200 DMA": "-21.04%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "VMM",
+            "Price (\u20b9)": 115.91,
+            "50 DMA": 119.94,
+            "100 DMA": 117.33,
+            "200 DMA": 127.02,
+            "Dist from 200 DMA": "-8.75%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "BEL",
+            "Price (\u20b9)": 407.6,
+            "50 DMA": 418.91,
+            "100 DMA": 428.97,
+            "200 DMA": 419.61,
+            "Dist from 200 DMA": "-2.86%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "MSUMI",
+            "Price (\u20b9)": 40.75,
+            "50 DMA": 39.54,
+            "100 DMA": 39.82,
+            "200 DMA": 43.04,
+            "Dist from 200 DMA": "-5.32%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "BANDHANBNK",
+            "Price (\u20b9)": 196.04,
+            "50 DMA": 203.17,
+            "100 DMA": 186.26,
+            "200 DMA": 170.13,
+            "Dist from 200 DMA": "15.23%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "NMDC",
+            "Price (\u20b9)": 83.74,
+            "50 DMA": 88.83,
+            "100 DMA": 85.37,
+            "200 DMA": 80.59,
+            "Dist from 200 DMA": "3.91%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "CCAVENUE",
+            "Price (\u20b9)": 16.23,
+            "50 DMA": 14.57,
+            "100 DMA": 15.01,
+            "200 DMA": 16.26,
+            "Dist from 200 DMA": "-0.19%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "LLOYDSENGG",
+            "Price (\u20b9)": 81.73,
+            "50 DMA": 74.4,
+            "100 DMA": 61.22,
+            "200 DMA": 58.22,
+            "Dist from 200 DMA": "40.38%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "ATALREAL",
+            "Price (\u20b9)": 28.28,
+            "50 DMA": 29.0,
+            "100 DMA": 26.66,
+            "200 DMA": 25.53,
+            "Dist from 200 DMA": "10.77%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "MOREPENLAB",
+            "Price (\u20b9)": 58.96,
+            "50 DMA": 48.06,
+            "100 DMA": 44.0,
+            "200 DMA": 43.8,
+            "Dist from 200 DMA": "34.62%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "RAIN",
+            "Price (\u20b9)": 198.72,
+            "50 DMA": 175.7,
+            "100 DMA": 151.88,
+            "200 DMA": 141.59,
+            "Dist from 200 DMA": "40.35%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "GAIL",
+            "Price (\u20b9)": 169.24,
+            "50 DMA": 167.92,
+            "100 DMA": 161.67,
+            "200 DMA": 165.15,
+            "Dist from 200 DMA": "2.48%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "UJJIVANSFB",
+            "Price (\u20b9)": 59.63,
+            "50 DMA": 56.68,
+            "100 DMA": 56.84,
+            "200 DMA": 55.42,
+            "Dist from 200 DMA": "7.6%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "NAUKRI",
+            "Price (\u20b9)": 1179.0,
+            "50 DMA": 987.5,
+            "100 DMA": 1003.23,
+            "200 DMA": 1166.19,
+            "Dist from 200 DMA": "1.1%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "SAIL",
+            "Price (\u20b9)": 162.02,
+            "50 DMA": 185.8,
+            "100 DMA": 173.42,
+            "200 DMA": 156.46,
+            "Dist from 200 DMA": "3.55%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "TMPV",
+            "Price (\u20b9)": 332.05,
+            "50 DMA": 361.95,
+            "100 DMA": 352.11,
+            "200 DMA": 386.46,
+            "Dist from 200 DMA": "-14.08%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "NATIONALUM",
+            "Price (\u20b9)": 349.75,
+            "50 DMA": 386.35,
+            "100 DMA": 386.82,
+            "200 DMA": 331.43,
+            "Dist from 200 DMA": "5.53%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "NYKAA",
+            "Price (\u20b9)": 317.95,
+            "50 DMA": 280.2,
+            "100 DMA": 268.34,
+            "200 DMA": 261.53,
+            "Dist from 200 DMA": "21.57%",
+            "CAR Signal": "Short History"
         },
         {
             "Symbol": "IEX",
-            "Price (\u20b9)": 122.46,
-            "50 DMA": 124.71,
-            "100 DMA": 123.49,
-            "200 DMA": 129.3,
-            "Dist from 200 DMA": "-5.29%",
+            "Price (\u20b9)": 116.81,
+            "50 DMA": 124.56,
+            "100 DMA": 123.41,
+            "200 DMA": 129.16,
+            "Dist from 200 DMA": "-9.56%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "J&KBANK",
+            "Price (\u20b9)": 165.96,
+            "50 DMA": 147.85,
+            "100 DMA": 133.27,
+            "200 DMA": 118.62,
+            "Dist from 200 DMA": "39.91%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "ICICIBANK",
+            "Price (\u20b9)": 1380.6,
+            "50 DMA": 1302.31,
+            "100 DMA": 1311.58,
+            "200 DMA": 1344.02,
+            "Dist from 200 DMA": "2.72%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "LODHA",
+            "Price (\u20b9)": 1115.1,
+            "50 DMA": 925.99,
+            "100 DMA": 904.72,
+            "200 DMA": 1010.68,
+            "Dist from 200 DMA": "10.33%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "IRB",
+            "Price (\u20b9)": 19.97,
+            "50 DMA": 21.19,
+            "100 DMA": 21.11,
+            "200 DMA": 21.13,
+            "Dist from 200 DMA": "-5.49%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "HIKAL",
+            "Price (\u20b9)": 228.78,
+            "50 DMA": 203.71,
+            "100 DMA": 193.35,
+            "200 DMA": 211.99,
+            "Dist from 200 DMA": "7.92%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "ANANTRAJ",
+            "Price (\u20b9)": 544.75,
+            "50 DMA": 524.23,
+            "100 DMA": 507.97,
+            "200 DMA": 550.74,
+            "Dist from 200 DMA": "-1.09%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "RITES",
+            "Price (\u20b9)": 223.13,
+            "50 DMA": 211.78,
+            "100 DMA": 209.07,
+            "200 DMA": 223.04,
+            "Dist from 200 DMA": "0.04%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "PARADEEP",
+            "Price (\u20b9)": 139.87,
+            "50 DMA": 129.57,
+            "100 DMA": 123.98,
+            "200 DMA": 142.08,
+            "Dist from 200 DMA": "-1.55%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "NTPC",
+            "Price (\u20b9)": 348.7,
+            "50 DMA": 374.26,
+            "100 DMA": 377.53,
+            "200 DMA": 355.54,
+            "Dist from 200 DMA": "-1.92%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "CENTRALBK",
+            "Price (\u20b9)": 31.25,
+            "50 DMA": 32.74,
+            "100 DMA": 34.13,
+            "200 DMA": 35.51,
+            "Dist from 200 DMA": "-12.0%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "IDBI",
+            "Price (\u20b9)": 80.53,
+            "50 DMA": 77.23,
+            "100 DMA": 82.46,
+            "200 DMA": 90.73,
+            "Dist from 200 DMA": "-11.24%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "EMBDL",
+            "Price (\u20b9)": 63.22,
+            "50 DMA": 61.74,
+            "100 DMA": 57.05,
+            "200 DMA": 67.49,
+            "Dist from 200 DMA": "-6.33%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "INOXWIND",
+            "Price (\u20b9)": 82.72,
+            "50 DMA": 92.38,
+            "100 DMA": 91.14,
+            "200 DMA": 111.53,
+            "Dist from 200 DMA": "-25.83%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "SAMMAANCAP",
+            "Price (\u20b9)": 163.14,
+            "50 DMA": 164.72,
+            "100 DMA": 155.74,
+            "200 DMA": 155.55,
+            "Dist from 200 DMA": "4.88%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "SHAH",
+            "Price (\u20b9)": 4.61,
+            "50 DMA": 4.98,
+            "100 DMA": 4.92,
+            "200 DMA": 4.68,
+            "Dist from 200 DMA": "-1.44%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "ATHERENERG",
+            "Price (\u20b9)": 1200.0,
+            "50 DMA": 990.29,
+            "100 DMA": 882.16,
+            "200 DMA": 772.02,
+            "Dist from 200 DMA": "55.44%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "LTF",
+            "Price (\u20b9)": 314.3,
+            "50 DMA": 286.79,
+            "100 DMA": 279.96,
+            "200 DMA": 281.7,
+            "Dist from 200 DMA": "11.57%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "ANGELONE",
+            "Price (\u20b9)": 331.2,
+            "50 DMA": 331.65,
+            "100 DMA": 294.05,
+            "200 DMA": 270.92,
+            "Dist from 200 DMA": "22.25%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "MRPL",
+            "Price (\u20b9)": 147.94,
+            "50 DMA": 154.37,
+            "100 DMA": 169.66,
+            "200 DMA": 160.86,
+            "Dist from 200 DMA": "-8.03%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "HDFCPSUBK",
+            "Price (\u20b9)": 81.86,
+            "50 DMA": 84.5,
+            "100 DMA": 87.21,
+            "200 DMA": 85.23,
+            "Dist from 200 DMA": "-3.95%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "SPARC",
+            "Price (\u20b9)": 269.98,
+            "50 DMA": 206.76,
+            "100 DMA": 168.57,
+            "200 DMA": 151.76,
+            "Dist from 200 DMA": "77.9%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "BAJFINANCE",
+            "Price (\u20b9)": 1010.4,
+            "50 DMA": 937.61,
+            "100 DMA": 927.36,
+            "200 DMA": 962.8,
+            "Dist from 200 DMA": "4.94%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "SGMART",
+            "Price (\u20b9)": 669.0,
+            "50 DMA": 591.69,
+            "100 DMA": 536.19,
+            "200 DMA": 446.21,
+            "Dist from 200 DMA": "49.93%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "JUBLFOOD",
+            "Price (\u20b9)": 429.2,
+            "50 DMA": 438.8,
+            "100 DMA": 459.29,
+            "200 DMA": 516.22,
+            "Dist from 200 DMA": "-16.86%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "SUMEETINDS",
+            "Price (\u20b9)": 31.35,
+            "50 DMA": 28.1,
+            "100 DMA": 28.21,
+            "200 DMA": 29.78,
+            "Dist from 200 DMA": "5.26%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "RECLTD",
+            "Price (\u20b9)": 348.75,
+            "50 DMA": 350.03,
+            "100 DMA": 347.48,
+            "200 DMA": 351.95,
+            "Dist from 200 DMA": "-0.91%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "FCL",
+            "Price (\u20b9)": 36.39,
+            "50 DMA": 36.04,
+            "100 DMA": 29.38,
+            "200 DMA": 26.87,
+            "Dist from 200 DMA": "35.45%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "PATELENG",
+            "Price (\u20b9)": 31.64,
+            "50 DMA": 29.09,
+            "100 DMA": 27.8,
+            "200 DMA": 30.4,
+            "Dist from 200 DMA": "4.07%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "SBC",
+            "Price (\u20b9)": 42.06,
+            "50 DMA": 37.88,
+            "100 DMA": 34.94,
+            "200 DMA": 30.55,
+            "Dist from 200 DMA": "37.66%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "RCF",
+            "Price (\u20b9)": 130.21,
+            "50 DMA": 129.31,
+            "100 DMA": 126.5,
+            "200 DMA": 134.2,
+            "Dist from 200 DMA": "-2.97%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "POWERGRID",
+            "Price (\u20b9)": 279.7,
+            "50 DMA": 294.7,
+            "100 DMA": 298.58,
+            "200 DMA": 284.14,
+            "Dist from 200 DMA": "-1.56%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "JYOTISTRUC",
+            "Price (\u20b9)": 11.31,
+            "50 DMA": 12.44,
+            "100 DMA": 12.01,
+            "200 DMA": 11.83,
+            "Dist from 200 DMA": "-4.37%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "SAKSOFT",
+            "Price (\u20b9)": 167.31,
+            "50 DMA": 149.09,
+            "100 DMA": 143.15,
+            "200 DMA": 168.09,
+            "Dist from 200 DMA": "-0.46%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "AVANTEL",
+            "Price (\u20b9)": 182.2,
+            "50 DMA": 167.41,
+            "100 DMA": 155.2,
+            "200 DMA": 159.31,
+            "Dist from 200 DMA": "14.37%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "PPLPHARMA",
+            "Price (\u20b9)": 168.11,
+            "50 DMA": 169.96,
+            "100 DMA": 160.58,
+            "200 DMA": 171.29,
+            "Dist from 200 DMA": "-1.86%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "AXISBANK",
+            "Price (\u20b9)": 1309.5,
+            "50 DMA": 1305.41,
+            "100 DMA": 1305.18,
+            "200 DMA": 1277.74,
+            "Dist from 200 DMA": "2.49%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "EXIDEIND",
+            "Price (\u20b9)": 421.35,
+            "50 DMA": 377.03,
+            "100 DMA": 348.81,
+            "200 DMA": 358.68,
+            "Dist from 200 DMA": "17.47%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "COCHINSHIP",
+            "Price (\u20b9)": 1404.1,
+            "50 DMA": 1528.32,
+            "100 DMA": 1492.47,
+            "200 DMA": 1582.19,
+            "Dist from 200 DMA": "-11.26%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "HINDALCO",
+            "Price (\u20b9)": 971.65,
+            "50 DMA": 1042.26,
+            "100 DMA": 996.31,
+            "200 DMA": 921.09,
+            "Dist from 200 DMA": "5.49%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "SHRIRAMFIN",
+            "Price (\u20b9)": 1014.4,
+            "50 DMA": 966.38,
+            "100 DMA": 984.01,
+            "200 DMA": 910.62,
+            "Dist from 200 DMA": "11.4%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "UCOBANK",
+            "Price (\u20b9)": 26.11,
+            "50 DMA": 26.09,
+            "100 DMA": 26.09,
+            "200 DMA": 27.9,
+            "Dist from 200 DMA": "-6.43%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "PFC",
+            "Price (\u20b9)": 403.6,
+            "50 DMA": 433.32,
+            "100 DMA": 427.12,
+            "200 DMA": 398.95,
+            "Dist from 200 DMA": "1.17%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "NACLIND",
+            "Price (\u20b9)": 221.73,
+            "50 DMA": 177.48,
+            "100 DMA": 159.66,
+            "200 DMA": 170.91,
+            "Dist from 200 DMA": "29.73%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "RBLBANK",
+            "Price (\u20b9)": 359.8,
+            "50 DMA": 351.25,
+            "100 DMA": 331.59,
+            "200 DMA": 317.81,
+            "Dist from 200 DMA": "13.21%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "OIL",
+            "Price (\u20b9)": 430.35,
+            "50 DMA": 458.36,
+            "100 DMA": 465.75,
+            "200 DMA": 443.15,
+            "Dist from 200 DMA": "-2.89%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "BHARTIARTL",
+            "Price (\u20b9)": 1888.1,
+            "50 DMA": 1853.29,
+            "100 DMA": 1862.09,
+            "200 DMA": 1950.9,
+            "Dist from 200 DMA": "-3.22%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "M&MFIN",
+            "Price (\u20b9)": 331.65,
+            "50 DMA": 308.51,
+            "100 DMA": 318.96,
+            "200 DMA": 328.2,
+            "Dist from 200 DMA": "1.05%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "HARDWYN",
+            "Price (\u20b9)": 24.67,
+            "50 DMA": 24.81,
+            "100 DMA": 22.26,
+            "200 DMA": 19.02,
+            "Dist from 200 DMA": "29.69%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "MCLOUD",
+            "Price (\u20b9)": 29.32,
+            "50 DMA": 27.05,
+            "100 DMA": 25.73,
+            "200 DMA": 35.12,
+            "Dist from 200 DMA": "-16.52%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "UTKARSHBNK",
+            "Price (\u20b9)": 14.01,
+            "50 DMA": 13.9,
+            "100 DMA": 13.46,
+            "200 DMA": 15.07,
+            "Dist from 200 DMA": "-7.05%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "TBZ",
+            "Price (\u20b9)": 201.7,
+            "50 DMA": 165.21,
+            "100 DMA": 152.99,
+            "200 DMA": 163.73,
+            "Dist from 200 DMA": "23.19%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "IREDA",
+            "Price (\u20b9)": 121.17,
+            "50 DMA": 127.8,
+            "100 DMA": 124.96,
+            "200 DMA": 133.48,
+            "Dist from 200 DMA": "-9.22%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "CGPOWER",
+            "Price (\u20b9)": 908.1,
+            "50 DMA": 897.34,
+            "100 DMA": 810.61,
+            "200 DMA": 747.31,
+            "Dist from 200 DMA": "21.52%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "ABCAPITAL",
+            "Price (\u20b9)": 385.75,
+            "50 DMA": 365.96,
+            "100 DMA": 348.33,
+            "200 DMA": 340.92,
+            "Dist from 200 DMA": "13.15%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "MMTC",
+            "Price (\u20b9)": 63.43,
+            "50 DMA": 67.0,
+            "100 DMA": 63.52,
+            "200 DMA": 64.07,
+            "Dist from 200 DMA": "-1.0%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "DAVANGERE",
+            "Price (\u20b9)": 3.56,
+            "50 DMA": 3.73,
+            "100 DMA": 3.82,
+            "200 DMA": 3.9,
+            "Dist from 200 DMA": "-8.71%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "TRIDENT",
+            "Price (\u20b9)": 25.14,
+            "50 DMA": 25.09,
+            "100 DMA": 24.74,
+            "200 DMA": 25.91,
+            "Dist from 200 DMA": "-2.99%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "JAMNAAUTO",
+            "Price (\u20b9)": 132.35,
+            "50 DMA": 125.09,
+            "100 DMA": 126.51,
+            "200 DMA": 119.78,
+            "Dist from 200 DMA": "10.49%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "RATNAVEER",
+            "Price (\u20b9)": 180.69,
+            "50 DMA": 175.26,
+            "100 DMA": 161.16,
+            "200 DMA": 157.05,
+            "Dist from 200 DMA": "15.06%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "TPHQ",
+            "Price (\u20b9)": 0.46,
+            "50 DMA": 0.51,
+            "100 DMA": 0.53,
+            "200 DMA": 0.58,
+            "Dist from 200 DMA": "-20.7%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "BAJAJHFL",
+            "Price (\u20b9)": 85.99,
+            "50 DMA": 85.78,
+            "100 DMA": 85.43,
+            "200 DMA": 93.41,
+            "Dist from 200 DMA": "-7.95%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "INDSWFTLAB",
+            "Price (\u20b9)": 225.47,
+            "50 DMA": 162.68,
+            "100 DMA": 151.45,
+            "200 DMA": 126.49,
+            "Dist from 200 DMA": "78.25%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "MCX",
+            "Price (\u20b9)": 2742.0,
+            "50 DMA": 2983.61,
+            "100 DMA": 2773.47,
+            "200 DMA": 2402.57,
+            "Dist from 200 DMA": "14.13%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "DLF",
+            "Price (\u20b9)": 634.0,
+            "50 DMA": 602.71,
+            "100 DMA": 590.47,
+            "200 DMA": 650.62,
+            "Dist from 200 DMA": "-2.55%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "BAJAJHIND",
+            "Price (\u20b9)": 17.27,
+            "50 DMA": 18.78,
+            "100 DMA": 17.87,
+            "200 DMA": 18.72,
+            "Dist from 200 DMA": "-7.77%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "HINDZINC",
+            "Price (\u20b9)": 530.3,
+            "50 DMA": 590.42,
+            "100 DMA": 575.49,
+            "200 DMA": 555.42,
+            "Dist from 200 DMA": "-4.52%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "HSCL",
+            "Price (\u20b9)": 640.85,
+            "50 DMA": 637.02,
+            "100 DMA": 555.52,
+            "200 DMA": 508.79,
+            "Dist from 200 DMA": "25.96%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "DHANBANK",
+            "Price (\u20b9)": 33.63,
+            "50 DMA": 32.83,
+            "100 DMA": 28.6,
+            "200 DMA": 27.1,
+            "Dist from 200 DMA": "24.11%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "NSLNISP",
+            "Price (\u20b9)": 42.6,
+            "50 DMA": 45.32,
+            "100 DMA": 42.13,
+            "200 DMA": 42.58,
+            "Dist from 200 DMA": "0.05%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "TATAPOWER",
+            "Price (\u20b9)": 372.1,
+            "50 DMA": 405.72,
+            "100 DMA": 399.96,
+            "200 DMA": 390.3,
+            "Dist from 200 DMA": "-4.66%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "FEDERALBNK",
+            "Price (\u20b9)": 326.55,
+            "50 DMA": 304.72,
+            "100 DMA": 293.44,
+            "200 DMA": 269.79,
+            "Dist from 200 DMA": "21.04%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "FILATEX",
+            "Price (\u20b9)": 58.05,
+            "50 DMA": 48.74,
+            "100 DMA": 45.91,
+            "200 DMA": 49.04,
+            "Dist from 200 DMA": "18.36%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "SCI",
+            "Price (\u20b9)": 277.6,
+            "50 DMA": 310.45,
+            "100 DMA": 283.12,
+            "200 DMA": 255.36,
+            "Dist from 200 DMA": "8.71%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "PETRONET",
+            "Price (\u20b9)": 271.6,
+            "50 DMA": 274.51,
+            "100 DMA": 275.86,
+            "200 DMA": 275.08,
+            "Dist from 200 DMA": "-1.27%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "AEGISVOPAK",
+            "Price (\u20b9)": 276.61,
+            "50 DMA": 216.08,
+            "100 DMA": 206.12,
+            "200 DMA": 229.01,
+            "Dist from 200 DMA": "20.79%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "LEMONTREE",
+            "Price (\u20b9)": 116.93,
+            "50 DMA": 114.68,
+            "100 DMA": 113.93,
+            "200 DMA": 134.82,
+            "Dist from 200 DMA": "-13.27%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "NTPCGREEN",
+            "Price (\u20b9)": 92.7,
+            "50 DMA": 101.53,
+            "100 DMA": 99.49,
+            "200 DMA": 97.38,
+            "Dist from 200 DMA": "-4.8%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "ITCHOTELS",
+            "Price (\u20b9)": 177.63,
+            "50 DMA": 162.09,
+            "100 DMA": 161.36,
+            "200 DMA": 182.3,
+            "Dist from 200 DMA": "-2.56%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "ADANIENSOL",
+            "Price (\u20b9)": 1655.5,
+            "50 DMA": 1464.91,
+            "100 DMA": 1271.32,
+            "200 DMA": 1116.13,
+            "Dist from 200 DMA": "48.32%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "INDIANB",
+            "Price (\u20b9)": 772.4,
+            "50 DMA": 823.83,
+            "100 DMA": 860.96,
+            "200 DMA": 833.68,
+            "Dist from 200 DMA": "-7.35%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "BCG",
+            "Price (\u20b9)": 9.48,
+            "50 DMA": 10.08,
+            "100 DMA": 10.0,
+            "200 DMA": 11.04,
+            "Dist from 200 DMA": "-14.14%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "IOB",
+            "Price (\u20b9)": 33.47,
+            "50 DMA": 34.01,
+            "100 DMA": 34.16,
+            "200 DMA": 35.88,
+            "Dist from 200 DMA": "-6.71%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "MOREALTY",
+            "Price (\u20b9)": 87.23,
+            "50 DMA": 79.84,
+            "100 DMA": 77.67,
+            "200 DMA": 83.13,
+            "Dist from 200 DMA": "4.93%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "RVNL",
+            "Price (\u20b9)": 224.73,
+            "50 DMA": 256.53,
+            "100 DMA": 272.06,
+            "200 DMA": 301.44,
+            "Dist from 200 DMA": "-25.45%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "IGL",
+            "Price (\u20b9)": 150.12,
+            "50 DMA": 162.34,
+            "100 DMA": 161.55,
+            "200 DMA": 177.48,
+            "Dist from 200 DMA": "-15.42%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "ALLCARGO",
+            "Price (\u20b9)": 7.9,
+            "50 DMA": 8.85,
+            "100 DMA": 8.65,
+            "200 DMA": 13.96,
+            "Dist from 200 DMA": "-43.43%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "HUDCO",
+            "Price (\u20b9)": 203.84,
+            "50 DMA": 210.67,
+            "100 DMA": 197.76,
+            "200 DMA": 208.04,
+            "Dist from 200 DMA": "-2.02%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "BSE",
+            "Price (\u20b9)": 3739.1,
+            "50 DMA": 3970.21,
+            "100 DMA": 3488.1,
+            "200 DMA": 3055.39,
+            "Dist from 200 DMA": "22.38%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "GREAVESCOT",
+            "Price (\u20b9)": 224.57,
+            "50 DMA": 188.14,
+            "100 DMA": 168.74,
+            "200 DMA": 181.76,
+            "Dist from 200 DMA": "23.55%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "TEXRAIL",
+            "Price (\u20b9)": 111.52,
+            "50 DMA": 109.65,
+            "100 DMA": 104.56,
+            "200 DMA": 118.0,
+            "Dist from 200 DMA": "-5.49%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "RBA",
+            "Price (\u20b9)": 72.39,
+            "50 DMA": 70.55,
+            "100 DMA": 66.47,
+            "200 DMA": 67.1,
+            "Dist from 200 DMA": "7.88%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "LICI",
+            "Price (\u20b9)": 427.9,
+            "50 DMA": 404.61,
+            "100 DMA": 401.0,
+            "200 DMA": 413.69,
+            "Dist from 200 DMA": "3.44%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "RENUKA",
+            "Price (\u20b9)": 22.56,
+            "50 DMA": 23.93,
+            "100 DMA": 24.83,
+            "200 DMA": 26.15,
+            "Dist from 200 DMA": "-13.73%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "LLOYDSENT",
+            "Price (\u20b9)": 71.33,
+            "50 DMA": 71.14,
+            "100 DMA": 62.52,
+            "200 DMA": 62.71,
+            "Dist from 200 DMA": "13.74%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "MIRZAINT",
+            "Price (\u20b9)": 37.82,
+            "50 DMA": 32.12,
+            "100 DMA": 32.18,
+            "200 DMA": 35.16,
+            "Dist from 200 DMA": "7.58%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "INDUSINDBK",
+            "Price (\u20b9)": 994.65,
+            "50 DMA": 922.1,
+            "100 DMA": 893.21,
+            "200 DMA": 863.44,
+            "Dist from 200 DMA": "15.2%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "UPL",
+            "Price (\u20b9)": 581.7,
+            "50 DMA": 623.41,
+            "100 DMA": 634.04,
+            "200 DMA": 683.22,
+            "Dist from 200 DMA": "-14.86%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "EQUITASBNK",
+            "Price (\u20b9)": 76.82,
+            "50 DMA": 72.82,
+            "100 DMA": 67.14,
+            "200 DMA": 64.57,
+            "Dist from 200 DMA": "18.98%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "AHCL",
+            "Price (\u20b9)": 15.19,
+            "50 DMA": 14.56,
+            "100 DMA": 13.43,
+            "200 DMA": 13.59,
+            "Dist from 200 DMA": "11.74%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "VBL",
+            "Price (\u20b9)": 474.55,
+            "50 DMA": 516.45,
+            "100 DMA": 477.99,
+            "200 DMA": 472.75,
+            "Dist from 200 DMA": "0.38%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "UNITECH",
+            "Price (\u20b9)": 4.65,
+            "50 DMA": 4.82,
+            "100 DMA": 4.76,
+            "200 DMA": 5.49,
+            "Dist from 200 DMA": "-15.37%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "MARKSANS",
+            "Price (\u20b9)": 263.45,
+            "50 DMA": 235.55,
+            "100 DMA": 205.0,
+            "200 DMA": 192.48,
+            "Dist from 200 DMA": "36.87%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "CUB",
+            "Price (\u20b9)": 220.08,
+            "50 DMA": 197.21,
+            "100 DMA": 196.46,
+            "200 DMA": 195.65,
+            "Dist from 200 DMA": "12.49%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "DELHIVERY",
+            "Price (\u20b9)": 501.8,
+            "50 DMA": 464.75,
+            "100 DMA": 450.28,
+            "200 DMA": 440.48,
+            "Dist from 200 DMA": "13.92%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "JAYNECOIND",
+            "Price (\u20b9)": 85.91,
+            "50 DMA": 97.66,
+            "100 DMA": 89.52,
+            "200 DMA": 82.57,
+            "Dist from 200 DMA": "4.04%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "BELRISE",
+            "Price (\u20b9)": 225.74,
+            "50 DMA": 224.19,
+            "100 DMA": 209.24,
+            "200 DMA": 186.42,
+            "Dist from 200 DMA": "21.09%",
             "CAR Signal": "AVOID (CAR Falling)"
         },
         {
             "Symbol": "NETWORK18",
-            "Price (\u20b9)": 31.91,
-            "50 DMA": 32.51,
-            "100 DMA": 32.96,
-            "200 DMA": 39.16,
-            "Dist from 200 DMA": "-18.5%",
+            "Price (\u20b9)": 30.96,
+            "50 DMA": 32.43,
+            "100 DMA": 32.87,
+            "200 DMA": 39.03,
+            "Dist from 200 DMA": "-20.67%",
             "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "COALINDIA",
+            "Price (\u20b9)": 429.05,
+            "50 DMA": 455.99,
+            "100 DMA": 449.56,
+            "200 DMA": 419.63,
+            "Dist from 200 DMA": "2.25%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "REDINGTON",
+            "Price (\u20b9)": 268.6,
+            "50 DMA": 237.5,
+            "100 DMA": 232.19,
+            "200 DMA": 250.75,
+            "Dist from 200 DMA": "7.12%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "JTLIND",
+            "Price (\u20b9)": 77.61,
+            "50 DMA": 74.71,
+            "100 DMA": 67.47,
+            "200 DMA": 66.79,
+            "Dist from 200 DMA": "16.2%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "TCS",
+            "Price (\u20b9)": 2057.5,
+            "50 DMA": 2220.66,
+            "100 DMA": 2357.7,
+            "200 DMA": 2692.02,
+            "Dist from 200 DMA": "-23.57%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "SALASAR",
+            "Price (\u20b9)": 6.0,
+            "50 DMA": 6.9,
+            "100 DMA": 7.1,
+            "200 DMA": 8.13,
+            "Dist from 200 DMA": "-26.21%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "PAYTM",
+            "Price (\u20b9)": 1223.4,
+            "50 DMA": 1123.19,
+            "100 DMA": 1105.57,
+            "200 DMA": 1186.14,
+            "Dist from 200 DMA": "3.14%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "ALOKINDS",
+            "Price (\u20b9)": 12.4,
+            "50 DMA": 12.98,
+            "100 DMA": 13.3,
+            "200 DMA": 14.96,
+            "Dist from 200 DMA": "-17.11%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "RAMCOSYS",
+            "Price (\u20b9)": 856.45,
+            "50 DMA": 539.62,
+            "100 DMA": 485.51,
+            "200 DMA": 521.17,
+            "Dist from 200 DMA": "64.33%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "UNICHEMLAB",
+            "Price (\u20b9)": 572.7,
+            "50 DMA": 406.68,
+            "100 DMA": 371.95,
+            "200 DMA": 410.39,
+            "Dist from 200 DMA": "39.55%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "GENUSPOWER",
+            "Price (\u20b9)": 301.6,
+            "50 DMA": 317.6,
+            "100 DMA": 289.7,
+            "200 DMA": 296.67,
+            "Dist from 200 DMA": "1.66%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "RADHIKAJWE",
+            "Price (\u20b9)": 56.27,
+            "50 DMA": 58.09,
+            "100 DMA": 60.63,
+            "200 DMA": 70.5,
+            "Dist from 200 DMA": "-20.18%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "ENGINERSIN",
+            "Price (\u20b9)": 235.09,
+            "50 DMA": 242.03,
+            "100 DMA": 226.67,
+            "200 DMA": 209.78,
+            "Dist from 200 DMA": "12.06%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "MANAPPURAM",
+            "Price (\u20b9)": 332.55,
+            "50 DMA": 315.39,
+            "100 DMA": 295.22,
+            "200 DMA": 291.71,
+            "Dist from 200 DMA": "14.0%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "MODEFENCE",
+            "Price (\u20b9)": 102.68,
+            "50 DMA": 101.27,
+            "100 DMA": 95.51,
+            "200 DMA": 91.31,
+            "Dist from 200 DMA": "12.45%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "TEJASNET",
+            "Price (\u20b9)": 535.4,
+            "50 DMA": 533.57,
+            "100 DMA": 472.29,
+            "200 DMA": 476.35,
+            "Dist from 200 DMA": "12.4%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "GATECH",
+            "Price (\u20b9)": 0.48,
+            "50 DMA": 0.51,
+            "100 DMA": 0.49,
+            "200 DMA": 0.55,
+            "Dist from 200 DMA": "-12.08%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "WELSPUNLIV",
+            "Price (\u20b9)": 162.93,
+            "50 DMA": 146.68,
+            "100 DMA": 135.32,
+            "200 DMA": 132.48,
+            "Dist from 200 DMA": "22.98%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "MOSMALL250",
+            "Price (\u20b9)": 17.62,
+            "50 DMA": 17.27,
+            "100 DMA": 16.47,
+            "200 DMA": 16.59,
+            "Dist from 200 DMA": "6.18%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "EDELWEISS",
+            "Price (\u20b9)": 117.22,
+            "50 DMA": 116.74,
+            "100 DMA": 115.33,
+            "200 DMA": 112.9,
+            "Dist from 200 DMA": "3.83%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "ORCHPHARMA",
+            "Price (\u20b9)": 1002.25,
+            "50 DMA": 829.49,
+            "100 DMA": 698.36,
+            "200 DMA": 731.84,
+            "Dist from 200 DMA": "36.95%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "VAIBHAVGBL",
+            "Price (\u20b9)": 242.77,
+            "50 DMA": 228.54,
+            "100 DMA": 222.21,
+            "200 DMA": 227.87,
+            "Dist from 200 DMA": "6.54%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "HDFCLIFE",
+            "Price (\u20b9)": 555.7,
+            "50 DMA": 587.8,
+            "100 DMA": 614.89,
+            "200 DMA": 681.99,
+            "Dist from 200 DMA": "-18.52%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "AWL",
+            "Price (\u20b9)": 181.44,
+            "50 DMA": 191.96,
+            "100 DMA": 188.88,
+            "200 DMA": 217.74,
+            "Dist from 200 DMA": "-16.67%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "SONACOMS",
+            "Price (\u20b9)": 662.05,
+            "50 DMA": 604.03,
+            "100 DMA": 566.9,
+            "200 DMA": 519.37,
+            "Dist from 200 DMA": "27.47%",
+            "CAR Signal": "Short History"
+        },
+        {
+            "Symbol": "SENCO",
+            "Price (\u20b9)": 331.75,
+            "50 DMA": 336.91,
+            "100 DMA": 325.41,
+            "200 DMA": 325.47,
+            "Dist from 200 DMA": "1.93%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "HINDCOPPER",
+            "Price (\u20b9)": 487.25,
+            "50 DMA": 531.1,
+            "100 DMA": 533.28,
+            "200 DMA": 474.91,
+            "Dist from 200 DMA": "2.6%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "POONAWALLA",
+            "Price (\u20b9)": 457.95,
+            "50 DMA": 417.94,
+            "100 DMA": 420.56,
+            "200 DMA": 446.54,
+            "Dist from 200 DMA": "2.56%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "VIKRAN",
+            "Price (\u20b9)": 72.65,
+            "50 DMA": 71.85,
+            "100 DMA": 69.23,
+            "200 DMA": 83.49,
+            "Dist from 200 DMA": "-12.98%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "HCLTECH",
+            "Price (\u20b9)": 1145.6,
+            "50 DMA": 1150.75,
+            "100 DMA": 1251.55,
+            "200 DMA": 1399.87,
+            "Dist from 200 DMA": "-18.16%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "FEDFINA",
+            "Price (\u20b9)": 148.98,
+            "50 DMA": 153.73,
+            "100 DMA": 145.06,
+            "200 DMA": 146.96,
+            "Dist from 200 DMA": "1.38%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "EIEL",
+            "Price (\u20b9)": 225.01,
+            "50 DMA": 204.47,
+            "100 DMA": 186.63,
+            "200 DMA": 201.16,
+            "Dist from 200 DMA": "11.85%",
+            "CAR Signal": "BUY (CAR Rising)"
         },
         {
             "Symbol": "PARAS",
-            "Price (\u20b9)": 1294.5,
-            "50 DMA": 996.25,
-            "100 DMA": 839.06,
-            "200 DMA": 765.36,
-            "Dist from 200 DMA": "69.14%",
+            "Price (\u20b9)": 1276.4,
+            "50 DMA": 1005.55,
+            "100 DMA": 845.23,
+            "200 DMA": 768.0,
+            "Dist from 200 DMA": "66.2%",
             "CAR Signal": "AVOID (CAR Falling)"
         },
         {
-            "Symbol": "MBAPL",
-            "Price (\u20b9)": 112.85,
-            "50 DMA": 110.82,
-            "100 DMA": 103.75,
-            "200 DMA": 93.29,
-            "Dist from 200 DMA": "20.97%",
-            "CAR Signal": "Short History"
+            "Symbol": "TIMETECHNO",
+            "Price (\u20b9)": 174.18,
+            "50 DMA": 177.85,
+            "100 DMA": 178.74,
+            "200 DMA": 189.05,
+            "Dist from 200 DMA": "-7.87%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "RTNINDIA",
+            "Price (\u20b9)": 31.98,
+            "50 DMA": 35.09,
+            "100 DMA": 32.77,
+            "200 DMA": 38.7,
+            "Dist from 200 DMA": "-17.37%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "BIOCON",
+            "Price (\u20b9)": 397.05,
+            "50 DMA": 411.81,
+            "100 DMA": 391.54,
+            "200 DMA": 384.33,
+            "Dist from 200 DMA": "3.31%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "JSWINFRA",
+            "Price (\u20b9)": 314.25,
+            "50 DMA": 289.42,
+            "100 DMA": 274.08,
+            "200 DMA": 278.64,
+            "Dist from 200 DMA": "12.78%",
+            "CAR Signal": "BUY (CAR Rising)"
+        },
+        {
+            "Symbol": "KPITTECH",
+            "Price (\u20b9)": 554.6,
+            "50 DMA": 725.28,
+            "100 DMA": 728.66,
+            "200 DMA": 947.36,
+            "Dist from 200 DMA": "-41.46%",
+            "CAR Signal": "AVOID (CAR Falling)"
+        },
+        {
+            "Symbol": "M&M",
+            "Price (\u20b9)": 3102.5,
+            "50 DMA": 3082.23,
+            "100 DMA": 3133.42,
+            "200 DMA": 3352.97,
+            "Dist from 200 DMA": "-7.47%",
+            "CAR Signal": "AVOID (CAR Falling)"
         }
     ]
 }
